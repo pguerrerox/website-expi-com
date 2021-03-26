@@ -1,32 +1,25 @@
 {
-  "name": "react-static-example-blank",
-  "private": true,
+  "name": "com-expi",
+  "version": "0.1.0",
+  "description": "website expi usando nextjs",
   "scripts": {
-    "start": "react-static start",
-    "build": "react-static build",
-    "deploy:GH_PAGES": "react-static build && touch dist/.nojekyll && touch dist/CNAME && echo \"expi.com.do\" >> dist/CNAME && gh-pages -d dist --dotfiles",
-    "stage": "react-static build --staging",
-    "analyze": "react-static build --analyze",
-    "serve": "serve dist -p 3000"
-
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pguerrerox/com-expi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pguerrerox/com-expi/issues"
+  },
+  "homepage": "https://github.com/pguerrerox/com-expi#readme",
   "dependencies": {
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "react-static": "^7.2.0",
-    "react-static-plugin-reach-router": "^7.2.0",
-    "react-static-plugin-sitemap": "^7.2.0",
-    "react-static-plugin-source-filesystem": "^7.2.0"
-  },
-  "devDependencies": {
-    "babel-eslint": "^10.0.2",
-    "eslint": "^6.1.0",
-    "eslint-config-react-app": "^5.0.1",
-    "eslint-config-react-tools": "^1.1.7",
-    "eslint-plugin-flowtype": "^4.2.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-react": "^7.14.3",
-    "serve": "^11.1.0"
+    "next": "^10.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }
