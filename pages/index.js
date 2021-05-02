@@ -1,5 +1,12 @@
+import Header from '../components/header';
+
 function HomePage() {
-    return <div>Welcome to Next.js!</div>
+
+    return (
+      <>
+      <h1>INDEX</h1>
+      </>
+    )
   }
   
   export default HomePage
