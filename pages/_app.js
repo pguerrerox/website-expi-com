@@ -9,6 +9,9 @@ import path from 'path';
 // importing layout
 import Layout from '../layout/default';
 
+//importing global CSS
+import "../styles/custom.scss";
+
 class MyApp extends App {
   constructor(props){
     super(props);

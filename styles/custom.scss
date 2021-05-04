@@ -1,0 +1,96 @@
+// colors
+$primary: #40a7ea; 
+$secondary: #363636;
+$terciary: #666;
+
+$theme-colors: (
+  "terciary": $terciary,
+);
+//font-size
+$font-size-base: .95rem;
+
+//font-color
+h1, h2, h3, h4, h5, h6 {
+  color: $secondary
+}
+p, span {
+    color: $terciary
+}
+//borders
+.border-right-2{
+    border-right: 2px solid;
+}
+.border-right-2:last-child{
+    border-right: none;
+}
+
+
+
+// fonts
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  src: url('/assets/fonts/open_sans_regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: 600;
+  src: url('/assets/fonts/open_sans_semibold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Nexa Rust Sans';
+  font-style: 600;
+  src: url('/assets/fonts/nexa_rust_sans_black.otf') format('opentype');
+}
+
+%font-nexa { font-family: 'Nexa Rust Sans' !important}
+%font-opensans { font-family: 'Open Sans', sans-serif !important}
+%font-bold { font-weight: bold !important}
+
+.font-roboto {
+  @extend %font-opensans;
+  &-bold {
+    @extend %font-opensans;
+    @extend %font-bold;
+  }
+}
+.font-nexa{
+  @extend %font-nexa;
+}
+body{
+  @extend %font-opensans;
+}
+
+// Special media query styles
+// Extra small devices (576px and down)
+@media (max-width: 575px) {
+  .HeaderMid img{height: 175px}
+  .Carrousel h1{font-size: 1.5rem}
+  .Carrousel h2{font-size: 1rem}
+}
+// Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  .HeaderMid img{height: 175px}
+  .Carrousel h1{font-size: 2rem}
+  .Carrousel h2{font-size: 1.5rem}
+}
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  .HeaderMid img{height: 175px}
+  .Carrousel h1{font-size: 2.5rem}
+  .Carrousel h2{font-size: 2rem}
+}
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  .HeaderMid img{height: 175px}
+  .Carrousel h1{font-size: 3rem}
+  .Carrousel h2{font-size: 2.5rem}
+}
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  .HeaderMid img{height: 175px}
+  .Carrousel h1{font-size: 4rem}
+  .Carrousel h2{font-size: 2.5rem}
+}
+
+@import "../node_modules//bootstrap/scss/bootstrap";

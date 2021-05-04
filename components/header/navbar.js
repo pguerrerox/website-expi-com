@@ -21,9 +21,9 @@ export default function Navbar(props) {
               <span className="navbar-toggler-icon"><FontAwesomeIcon icon="bars" /></span>
             </button> */}
 
-            <div className="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
-              <div className='navbar-nav d-flex justify-content-end  align-items-center font-nexa'>
-                {menuItems.map((item, index) => <Link href={item.link} key={index}><a className='text-capitalize nav-link mx-2'>{item.page}</a></Link>)}
+            <div className="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
+              <div className='navbar-nav d-flex justify-content-center align-items-center font-nexa'>
+                {menuItems.map((item, index) => <Link href={item.link} key={index}><a className='text-capitalize nav-link border-right-2'>{item.page}</a></Link>)}
                 {/* <button type="button" className="btn btn-primary btn-md btn-sm mx-3" data-toggle="modal" data-target="#formModal">{quote.page}</button> */}
               </div>
             </div>
