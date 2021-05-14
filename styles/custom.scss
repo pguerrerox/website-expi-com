@@ -1,7 +1,11 @@
 // colors
-$primary: #40a7ea; 
+$primary: #ee3532; 
 $secondary: #363636;
-$terciary: #666;
+$terciary: #7c7c7c;
+$white: #ffffff;
+$light: #cfcfcf;
+$dark: #202020;
+
 
 $theme-colors: (
   "terciary": $terciary,
@@ -11,11 +15,17 @@ $font-size-base: .95rem;
 
 //font-color
 h1, h2, h3, h4, h5, h6 {
-  color: $secondary
+  color: $white
 }
 p, span {
-    color: $terciary
+    color: $light
 }
+//font-style
+.bold{
+  font-weight: bold;
+}
+
+
 //borders
 .border-right-2{
     border-right: 2px solid;
@@ -24,6 +34,12 @@ p, span {
     border-right: none;
 }
 
+//header
+.fixedTop{
+  position: absolute;
+  top: 0;
+  right: 0
+}
 
 
 // fonts
@@ -79,12 +95,14 @@ body{
   .HeaderMid img{height: 175px}
   .Carrousel h1{font-size: 2.5rem}
   .Carrousel h2{font-size: 2rem}
+  .footerBorders div:nth-child(odd){border-right: 2px solid white}
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
   .HeaderMid img{height: 175px}
   .Carrousel h1{font-size: 3rem}
   .Carrousel h2{font-size: 2.5rem}
+  .footerBorders div:not(:last-child){border-right: 2px solid white}
 }
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {

@@ -6,14 +6,11 @@ import Navbar from './header/navbar';
 import NavbarTop from './header/navbartop';
 
 // exporting component
-function Header(props) {
-
+export default function Header(props) {
     return (
     <>
-      <NavbarTop lang={props.lang} langChange={props.langChange}/>
-      <Navbar data={props.data.navbar}/>
+    <Navbar data={props.data.navbar}/>
+    {/* <NavbarTop lang={props.lang} langChange={props.langChange}/> */}
     </>
   )
 }
-
-export default Header

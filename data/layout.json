@@ -1,238 +1,129 @@
 {
-    "es": {
-        "header": {
-            "navbar": [
-                {
-                    "page": "inicio",
-                    "link": "/"
-                },
-                {
-                    "page": "sobre nosotros",
-                    "link": "/about"
-                },
-                {
-                    "page": "nuestros productos",
-                    "link": "/services"
-                },
-                {
-                    "page": "novedades",
-                    "link": "/news"
-                },
-                {
-                    "page": "contacto",
-                    "link":"/contact"
-                }
-            ],
-            "quote": {
-                "page": "Para Cotizar",
-                "link": "#"
-            },
-            "headerdown": {
-                "location": {
-                    "logo": "globe",
-                    "topLine": "Ridgefield, NJ",
-                    "botLine": "USA",
-                    "link": "https://goo.gl/maps/1s3Kq9VC8bgFqyCv8"
-                },
-                "hours": {
-                    "logo": "phone-alt",
-                    "topLine": "1 (201) 713-7691",
-                    "botLine": "Mon - Fri: 9am / 5pm",
-                    "link": "tel:201-713-7691"
-                },
-                "email": {
-                    "logo": "envelope",
-                    "topLine": "Correo de Soporte",
-                    "botLine": "Contactanos",
-                    "link": "mailto:a.rosario@meadowlandscf.com"
-                },
-                "social": {
-                    "facebook": {
-                        "logo": "facebook-square",
-                        "link": "https://www.facebook.com/Meadowlands-Construction-Flip-103174734795876"
-                    },
-                    "instagram": {
-                        "logo": "instagram",
-                        "link": "https://www.instagram.com/meadowlands_construction_flip/"
-                    },
-                    "twitter": {
-                        "logo": "twitter",
-                        "link": "https://twitter.com/albertor3"
-                    }
-                }
-            }
+  "es": {
+    "header": {
+      "navbar": [
+        {
+          "page": "inicio",
+          "link": "/"
         },
-        "footer": {
-            "left": {
-                "logo": "logo_2",
-                "logoAlt": "Logo de la Compañia",
-                "slogan": "Construir tu propia casa es bla bla bla bla bla,."
-            },
-            "center": {
-                "title": "mapa del sitio",
-                "sitemap": [
-                    {
-                        "page": "Inicio",
-                        "link": "/"
-                    },
-                    {
-                        "page": "acerca de",
-                        "link": "/about"
-                    },
-                    {
-                        "page": "nuestros servicios",
-                        "link": "/services"
-                    },
-                    {
-                        "page": "contactanos",
-                        "link": "/contact"
-                    }
-                ]
-            },
-            "right": {
-                "title": "información de contacto",
-                "items": [
-                    {
-                        "title": "Dirección",
-                        "text": "Lyndhurst, NJ, USA",
-                        "link": "https://goo.gl/maps/De9qdWx3Lz7JdU8j7"
-                    },
-                    {
-                        "title": "Telefono",
-                        "text": "(201) 713 - 7691",
-                        "link": "tel:201-713-7691"
-                    },
-                    {
-                        "title": "Email",
-                        "text": "Our email",
-                        "link": "mailto:a.rosario@meadowlandscf.com"
-                    }
-                ]
-            },
-            "copyright": "Copyright © 2020 - Meadowlands Construction and Flips LLC.",
-            "developer": {
-                "uno": "Desarrollado con ⚒ por ",
-                "dos": "Duramente Web Studio",
-                "link": "https://duramente.com"
-            }
+        {
+          "page": "sobre nosotros",
+          "link": "/about"
         },
-        "modal": {
-            "title": "Formulario de Contacto",
-            "btnClose": "Cerrar"
+        {
+          "page": "nuestros productos",
+          "link": "/services"
+        },
+        {
+          "page": "novedades",
+          "link": "/news"
+        },
+        {
+          "page": "contacto",
+          "link": "/contact"
         }
+      ]
     },
-    "en": {
-        "header": {
-            "navbar": [
-                {
-                    "page": "home",
-                    "link": "/"
-                },
-                {
-                    "page": "services",
-                    "link": "/services"
-                },
-                {
-                    "page": "contact",
-                    "link": "/contact"
-                }
-            ],
-            "quote": {
-                "page": "Get a Quote",
-                "link": "/contact/#form"
-            },
-            "headerdown": {
-                "location": {
-                    "logo": "globe",
-                    "topLine": "Ridgefield, NJ",
-                    "botLine": "USA",
-                    "link": "https://goo.gl/maps/1s3Kq9VC8bgFqyCv8"
-                },
-                "hours": {
-                    "logo": "phone-alt",
-                    "topLine": "1 (201) 713-7691",
-                    "botLine": "Mon - Fri: 9am / 5pm",
-                    "link": "tel:201-713-7691"
-                },
-                "email": {
-                    "logo": "envelope",
-                    "topLine": "support email",
-                    "botLine": "Get in contact",
-                    "link": "mailto:a.rosario@meadowlandscf.com"
-                },
-                "social": {
-                    "facebook": {
-                        "logo": "facebook-square",
-                        "link": "https://www.facebook.com/Meadowlands-Construction-Flip-103174734795876"
-                    },
-                    "instagram": {
-                        "logo": "instagram",
-                        "link": "https://www.instagram.com/meadowlands_construction_flip/"
-                    },
-                    "twitter": {
-                        "logo": "twitter",
-                        "link": "https://twitter.com/albertor3"
-                    }
-                }
-            }
+    "footer": {
+      "topFooter": [
+        {
+          "h5": "Direccion",
+          "p": "Padre las Casas, Calle 5 No.13, Santiago, Rep. Dominicana"
         },
-        "footer": {
-            "left": {
-                "logo": "logo_2",
-                "logoAlt": "Company Logo",
-                "slogan": "Building your own home is bla bla bla bla bla,."
-            },
-            "center": {
-                "title": "site map",
-                "sitemap": [
-                    {
-                        "page": "home",
-                        "link": "/"
-                    },
-                    {
-                        "page": "about us",
-                        "link": "/about"
-                    },
-                    {
-                        "page": "our services",
-                        "link": "/services"
-                    },
-                    {
-                        "page": "contact us",
-                        "link": "/contact"
-                    }
-                ]
-            },
-            "right": {
-                "title": "Contact Information",
-                "items": [
-                    {
-                        "title": "Address",
-                        "text": "Ridgefield, NJ, USA",
-                        "link": "https://goo.gl/maps/1s3Kq9VC8bgFqyCv8"
-                    },
-                    {
-                        "title": "Telephone",
-                        "text": "1 (201) 713-7691",
-                        "link": "tel:1 201-713-7691"
-                    },
-                    {
-                        "title": "Email",
-                        "text": "Our email",
-                        "link": "mailto:a.rosario@meadowlandscf.com"
-                    }
-                ]
-            },
-            "copyright": "Copyright © 2020 - Meadowlands Construction and Flips LLC.",
-            "developer": {
-                "uno": "Developed with ⚒ by ",
-                "dos": "Duramente Web Studio",
-                "link": "https://duramente.com"
-            }
+        {
+          "h5": "Correo Electronico",
+          "p": "info@expi.com.do"
         },
-        "modal": {
-            "title": "Contact Form",
-            "btnClose": "Close"
+        {
+          "h5": "Numero de Contacto",
+          "p": "(809) 241 - 2285"
+        },
+        {
+          "h5": "Redes Sociales",
+          "p": "",
+          "img": "instagram"
         }
+      ],
+      "botFooter": {
+        "copyright": "Todos los derechos reservados © 2021 - Exportaciones Isabel, SRL",
+        "developer": {
+          "uno": "Desarrollado con 🪓🪓 por ",
+          "dos": "Duramente Web Studio",
+          "link": "https://duramente.com"
+        }
+      }
     }
+  },
+  "en": {
+    "header": {
+      "navbar": [
+        {
+          "page": "home",
+          "link": "/"
+        },
+        {
+          "page": "services",
+          "link": "/services"
+        },
+        {
+          "page": "contact",
+          "link": "/contact"
+        }
+      ]
+    },
+    "footer": {
+      "left": {
+        "logo": "logo_2",
+        "logoAlt": "Company Logo",
+        "slogan": "Building your own home is bla bla bla bla bla,."
+      },
+      "center": {
+        "title": "site map",
+        "sitemap": [
+          {
+            "page": "home",
+            "link": "/"
+          },
+          {
+            "page": "about us",
+            "link": "/about"
+          },
+          {
+            "page": "our services",
+            "link": "/services"
+          },
+          {
+            "page": "contact us",
+            "link": "/contact"
+          }
+        ]
+      },
+      "right": {
+        "title": "Contact Information",
+        "items": [
+          {
+            "title": "Address",
+            "text": "Ridgefield, NJ, USA",
+            "link": "https://goo.gl/maps/1s3Kq9VC8bgFqyCv8"
+          },
+          {
+            "title": "Telephone",
+            "text": "1 (201) 713-7691",
+            "link": "tel:1 201-713-7691"
+          },
+          {
+            "title": "Email",
+            "text": "Our email",
+            "link": "mailto:a.rosario@meadowlandscf.com"
+          }
+        ]
+      },
+      "copyright": "Copyright © 2020 - Meadowlands Construction and Flips LLC.",
+      "developer": {
+        "uno": "Developed with ⚒ by ",
+        "dos": "Duramente Web Studio",
+        "link": "https://duramente.com"
+      }
+    }
+  }
 }

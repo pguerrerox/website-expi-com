@@ -1,10 +1,10 @@
 // exporting component
 export default function NavbarTop(props) {
-    return (
-      <section className='HeaderTop bg-primary'>
-        <div className='container d-flex justify-content-center py-1'>
-          <button className="btn btn-sm btn-secondary font-weight-bold ml-auto" onClick={props.langChange}>{props.lang === "en" ? "Español" : "English"}</button>
-        </div>
-      </section>
-    )
-  }
+  return (
+    <section className='HeaderTop container fixedTop'>
+      <div className='d-flex justify-content-right py-2'>
+        <button className="btn btn-sm btn-primary font-weight-bold ml-auto" onClick={props.langChange}>{props.lang === "en" ? "Español" : "English"}</button>
+      </div>
+    </section>
+  )
+}

@@ -50,7 +50,7 @@ class MyApp extends App {
         
     return (
       <Layout data={layoutData} lang={state.language} langChange={this.langChange}>
-        <Component />
+        <Component {...pageProps} lang={state.language}/>
       </Layout>
     )
   }
