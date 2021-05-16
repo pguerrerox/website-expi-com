@@ -5,11 +5,14 @@ $terciary: #7c7c7c;
 $white: #ffffff;
 $light: #cfcfcf;
 $dark: #202020;
+$beige: #fefaf5;
 
 
 $theme-colors: (
   "terciary": $terciary,
+  "alternate": $beige
 );
+
 //font-size
 $font-size-base: .95rem;
 
@@ -25,14 +28,17 @@ p, span {
   font-weight: bold;
 }
 
+//font color
+.font-primary{color: $primary}
+.font-secondary{color: $secondary}
+.font-white{color: $white !important}
 
 //borders
-.border-right-2{
-    border-right: 2px solid;
-}
-.border-right-2:last-child{
-    border-right: none;
-}
+.border-top-1{border-top: 1px solid $primary}
+.border-bot-1{border-bottom: 1px solid $primary}
+
+.border-right-2{border-right: 2px solid}
+.border-right-2:last-child{border-right: none}
 
 //header
 .fixedTop{
@@ -80,26 +86,30 @@ body{
 // Special media query styles
 // Extra small devices (576px and down)
 @media (max-width: 575px) {
-  .HeaderMid img{height: 175px}
+  .headerlogo{height: 250px}
+  .section1logo{height: 300px}
   .Carrousel h1{font-size: 1.5rem}
   .Carrousel h2{font-size: 1rem}
 }
 // Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
-  .HeaderMid img{height: 175px}
+  .headerlogo{height: 175px}
+  .section1logo{height: 300px}
   .Carrousel h1{font-size: 2rem}
   .Carrousel h2{font-size: 1.5rem}
 }
 // Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
-  .HeaderMid img{height: 175px}
+  .headerlogo{height: 175px}
+  .section1logo{height: 300px}
   .Carrousel h1{font-size: 2.5rem}
   .Carrousel h2{font-size: 2rem}
   .footerBorders div:nth-child(odd){border-right: 2px solid white}
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
-  .HeaderMid img{height: 175px}
+  .headerlogo{height: 175px}
+  .section1logo{height: 300px}
   .Carrousel h1{font-size: 3rem}
   .Carrousel h2{font-size: 2.5rem}
   .footerBorders div:not(:last-child){border-right: 2px solid white}
@@ -107,6 +117,7 @@ body{
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
   .HeaderMid img{height: 175px}
+  .section1logo{height: 300px}
   .Carrousel h1{font-size: 4rem}
   .Carrousel h2{font-size: 2.5rem}
 }

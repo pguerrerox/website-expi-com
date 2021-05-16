@@ -15,7 +15,7 @@ export default function Navbar(props) {
           <nav className='navbar navbar-expand-lg py-2 px-2 row'>
             <div className='navbar-brand'>
               <Link href='/'>
-                <a><img className='' src='/images/logo.png' alt="Brand Logo" /></a>
+                <a><img className='headerlogo' src='/images/logo.png' alt="Brand Logo" /></a>
               </Link>
             </div>
             

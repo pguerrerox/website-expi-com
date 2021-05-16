@@ -10,6 +10,7 @@
             "p": "Exportaciones Isabel nace con la necesidad o ausencia que existia en el mercado americano de productos dominicanos de origen nacional.",
             "link": "",
             "link_text": "Descubre mas sobre nosotros",
+            "bgimage":"section1",
             "lower3er": false,
             "img_lower3er": ""
         },
@@ -17,9 +18,10 @@
             "h1": "Conoce niuestros productos",
             "p": "Nuestros productos son elaborados con los mejores estandares de calidad del mercado.",
             "link": "",
-            "link_text": "Descubre mas sobre nosotros",
+            "link_text": "Descubre nuestros productos",
+            "bgimage":"section2",
             "lower3er": true,
-            "img_lower3er": "logo"
+            "img_lower3er": "logo2"
         }
     }
 }
