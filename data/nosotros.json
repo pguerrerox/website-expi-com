@@ -1,0 +1,36 @@
+{
+  "es": {
+    "historia":{
+      "h2": "Nuestra",
+      "h1": "Historia",
+      "p": [
+        "En el verano del 1992, el señor Francisco Pérez hace una visita de turismo a Estados Unidos, al visitar algunas bodegas y supermercados en los estados de New York, New Jersey y otros mas, donde al cabo unos dias iden􀆟fica la necesidad de algunos productos Dominicanos que no estaban llegando al pais.",
+        "Dado este nicho de mercado sin explotar, se monta en el tren del emprendedurismo y crea la empresa Distribuidora Qusiqueya en NY como centro de distribución y Exportaciones Isabel, en su pais natal (República Dominicana) convir􀆟endose en la empresa que aportaría toda demanda del mercado Dominicano en estados unidos.",
+        "El Empresario Francisco Perez, comienza con su primer producto el queso 􀆟po Holandes, llegando a exportar unos 3,000 kilos semanales y en unos 5 años logrando unos 35,000 kilos del mismo.",
+        "En la actualidad, Exportaciones Isabel, comercializa una gran variedad de productos dominicanos que iden􀆟fican al dominicano con su 􀆟erra."
+      ],
+      "img": "eldon"
+    },
+    "estrategia": [
+      {
+        "h1": "mision",
+        "p": "Exportar productos dominicanos que cumplan con las normas de calidad exigido por nuestros clientes, garan􀆟zandoles una entrega a 􀆟empo y un servicio personalizado."
+      },
+      {
+        "h1": "vision",
+        "p": "Exportar productos dominicanos que cumplan con las normas de calidad exigido por nuestros clientes, garan􀆟zandoles una entrega a 􀆟empo y un servicio personalizado."
+      },
+      {
+        "h1": "valores",
+        "list": ["calidad", "responsabilidad", "confianza", "seguridad", "Innovacion", "Compromiso Social"]
+      }
+    ],
+    "banner":{
+      "imgbg": "almacen",
+      "vertical3er": "logo_black"
+    }
+  },
+  "en":{
+
+  }
+}

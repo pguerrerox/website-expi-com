@@ -18,7 +18,7 @@ export default function HomePage(props) {
   )
 }
 
-// fetching data
+// fetching initial data
 export async function getStaticProps() {
   const basepath = path.join(process.cwd(), 'data');
 

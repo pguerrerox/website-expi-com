@@ -16,14 +16,16 @@ export default function Index_section (props){
                 <img className='lower3erImg px-5' src={`/images/${data.img_lower3er}.png`}/>
             </div>
             <style jsx>{`
+            // specific styling
+            
             section{height: ${islower3er ? '700px' : '500px'}}
             .hidden {display: none !important}
             .bgImage{
-                background-image: url('/images/${data.bgimage}.png');
+                background-image: url('/images/index/${data.bgimage}.png');
                 background-size: cover;
                 background-position: center;
             }
-            .lower3er{background-color: #ffffff70; position: absolute; bottom: 0; width:100%}
+            .lower3er{background-color: #ffffffc7; position: absolute; bottom: 0; width:100%}
             .lower3erImg{height: 125px}
             `}</style>
         </section>

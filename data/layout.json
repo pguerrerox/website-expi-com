@@ -8,19 +8,19 @@
         },
         {
           "page": "sobre nosotros",
-          "link": "/about"
+          "link": "/nosotros"
         },
         {
           "page": "nuestros productos",
-          "link": "/services"
+          "link": "/productos"
         },
         {
           "page": "novedades",
-          "link": "/news"
+          "link": "/novedades"
         },
         {
           "page": "contacto",
-          "link": "/contact"
+          "link": "/contacto"
         }
       ]
     },
@@ -63,7 +63,7 @@
         },
         {
           "page": "services",
-          "link": "/services"
+          "link": "/nosotros"
         },
         {
           "page": "contact",
