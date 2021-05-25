@@ -1,0 +1,74 @@
+{
+  "es": {
+    "banner": {
+      "h3": "nuestros",
+      "h1": "Productos",
+      "slogan": "Nuestras marcas son reflejo de calidad"
+    },
+    "productos": [
+      {
+        "nombre": "rottis",
+        "img": "rottisLogo",
+        "p": "",
+        "linkHref": "/rottis",
+        "linkText": "ver productos"
+      },
+      {
+        "nombre": "nauj",
+        "img": "naujLogo",
+        "p": "",
+        "linkHref": "/nauj",
+        "linkText": "ver productos"
+      },
+      {
+        "nombre": "costero",
+        "img": "costeroLogo",
+        "p": "",
+        "linkHref": "/costero",
+        "linkText": "ver productos"
+      },
+      {
+        "nombre": "baruk",
+        "img": "barukLogo",
+        "p": "",
+        "linkHref": "/baruk",
+        "linkText": "ver productos"
+      },
+      {
+        "nombre": "donjuan",
+        "img": "donjuanLogo",
+        "p": "",
+        "linkHref": "/donjuan",
+        "linkText": "ver productos"
+      },
+      {
+        "nombre": "tilda",
+        "img": "tildaLogo",
+        "p": "",
+        "linkHref": "/tilda",
+        "linkText": "ver productos"
+      },
+      {
+        "nombre": "piloto",
+        "img": "pilotoLogo",
+        "p": "",
+        "linkHref": "/piloto",
+        "linkText": "ver productos"
+      },
+      {
+        "nombre": "dulces",
+        "img": "dulcesLogo",
+        "p": "",
+        "linkHref": "/dulces",
+        "linkText": "ver productos"
+      },
+      {
+        "nombre": "spices",
+        "img": "spicesLogo",
+        "p": "",
+        "linkHref": "/spices",
+        "linkText": "ver productos"
+      }
+    ]
+  }
+}
