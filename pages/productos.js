@@ -13,14 +13,15 @@ export default function Productos(props) {
   return (
     <>
     <Productos_Banner {...data.banner}  />
-    {
+    <div className='wraperProductos'>
+      {
         productos.map((x) => {
-            return(
-                <h1 className='font-primary'>{x.nombre}</h1>
-                // <Productos_ads />
-            )
-        })
-    }
+          return(
+            <Productos_ads {...x} />
+          )}
+        )
+      }
+    </div>
     </>
   )
 }

@@ -1,4 +1,5 @@
 # progress!
+- v0.4.1 - productos main page done
 - v0.4.0 - productos main page progress 25%
 - v0.3.1 - nosotros content and structure done
 - v0.2.3 - index content and general style done

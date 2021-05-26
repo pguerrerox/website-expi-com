@@ -34,6 +34,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 //borders
+.wraperProductos > div{border-bottom: 1px solid $primary}
+.wraperProductos > div:last-child{border-bottom: none }
+
 .border-top-1{border-top: 1px solid $primary}
 .border-bot-1{border-bottom: 1px solid $primary}
 
