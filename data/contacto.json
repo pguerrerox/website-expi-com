@@ -1,0 +1,117 @@
+{
+  "es": {
+    "top":{
+      "img": "logo"
+    },
+    "gracias": {
+      "top": {
+        "h1": "Gracias por su interés en exportaciones Isabel",
+        "h5": "Sus comentarios o inquietudes son de gran importancia para nosotros"
+      },
+      "bot": {
+        "pregunta": "¿En qué podemos ayudarle?",
+        "response": "En EXPI, estamos para servirle. Utilice el siguiente formulario para ponerse en contacto con nuestro equipo de servicio, una vez recibido su mensaje le estaremos contactando para ofrecerle respuesta a su solicitud o inquietud."
+      }
+    },
+    "info": {
+      "marked": "Puede contactarnos ",
+      "h2": "utilizando cualquiera de estos medios",
+      "informacion": [
+        {
+          "id":"telefono",
+          "marked": "Vía telefónica",
+          "texto":"al siguiente número:",
+          "dato1":"(809) 241-2285"
+        },
+        {
+          "id":"horario",
+          "marked": "Nuestro horario",
+          "texto":"laboral es:",
+          "dato1":"Lunes a Viernes",
+          "dato2":"8:00 am / 5:00 pm"
+        },
+        {
+          "id":"redes",
+          "marked": "redes sociales:",
+          "texto":"En nuestras",
+          "dato1":"@expi.rd",
+          "linkText": "Instagram",
+          "linkHref":"asdasdasd"
+        }
+      ]
+    },
+    "form":{
+      "fields":{
+        "name": {
+          "id": "nombre",
+          "label": "Nombre",
+          "placeholder": "Juan Rodriguez",
+          "type":"texto"
+        },
+        "email": {
+          "id": "email",
+          "label": "Correo Electronico",
+          "placeholder": "juan_rod@ejemplo.com",
+          "type":"email"
+        },
+        "subject": {
+          "id": "asunto",
+          "label": "Asunto",
+          "placeholder": "Que informacion necesita?",
+          "type":"text"
+        }
+      },
+      "message": {
+        "id": "mensaje",
+        "label": "Mensaje",
+        "placeholder": "Escribe mas detalles aqui",
+        "type":"text"
+      },
+      "button": {
+        "text": "Enviar"
+      },
+      "status":{
+        "success":"El mensaje se envio exitosamente!",
+        "fail":"Ha ocurrido un error, vuelva a intentarlo mas tarde."
+      }
+    },
+    "empleo":{
+      "texto":{
+        "h2":"¿Quieres Trabajar con Nosotros?",
+        "p1": "Usando el siguiente formulario podras enviarnos tu curriculum (CV).",
+        "p2": "El formulario solo permite enviar archivos PDF y el tamano maximo es de 2 megabytes (MB).",
+        "img": "logo",
+        "bgimage": "cargero"
+
+      },
+      "fields":{
+        "name": {
+          "id": "nombre",
+          "label": "Nombre",
+          "placeholder": "Juan Rodriguez",
+          "type":"texto"
+        },
+        "email": {
+          "id": "email",
+          "label": "Correo Electronico",
+          "placeholder": "juan_rod@ejemplo.com",
+          "type":"email"
+        },
+        "file": {
+          "id": "attachFile",
+          "label": "Archivo",
+          "placeholder": "curriculum.pdf",
+          "type":"file",
+          "accept": "application/pdf, .pdf"
+        }
+      },
+      "button": {
+        "text": "Enviar"
+      },
+      "status":{
+        "success":"El mensaje se envio exitosamente!",
+        "fail":"Ha ocurrido un error, vuelva a intentarlo mas tarde."
+      }
+    }
+  }
+}
