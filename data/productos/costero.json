@@ -1,0 +1,50 @@
+{
+  "es": {
+    "banner": {
+      "imgBanner": "costero",
+      "imgLogo": "costero"
+    },
+    "productos": [
+      {
+        "prodImg":"1",
+        "preMarked": "NUestro queso",
+        "marked": "tipo Holandés Costero,",
+        "postMarked": "es un queso pasteurizado con un sabor más fuerte a fuerte a las otras líneas de quesos holandeses.",
+        "p2": "Se caracteriza por ser el preferido para snacks y cuenta con diferentes etapas de maduración. algunos tiernos, otros semi-maduros y otros maduros (30 días y 45 días).",
+        "p3": "Actualmente la marca Costero tiene una línea Regular y una línea Black Premium la línea premium tiene etapas de maduración de 60 días, 90 y 180 días).",
+        "pres1": "Presentacion:",
+        "pres2": "1.10 libras"
+      },
+      {
+        "prodImg":"2",
+        "preMarked": "Nuestro queso",
+        "marked": "Amarillo de freír Costero,",
+        "postMarked": "es un queso fresco exquisito lleno de sabor, suave textura y apto para todo público. Su combinación es infinita, pues no solo es acto para desayunos y platos culturales sino también para algunos platos Gourmet.",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5 libras y 1 libra"
+      },
+      {
+        "prodImg":"3",
+        "preMarked": "Nuestro queso",
+        "marked": "Blanco de freír Costero,",
+        "postMarked": "es un queso fresco fácil de freír, ligeramente salado y cuenta con un nivel calórico bajo.",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5 libras y 1 libra"
+      },
+      {
+        "prodImg":"4",
+        "preMarked": "Nuestro",
+        "marked": "Yogurt Natural Costero,",
+        "postMarked": "es un yogurt elaborado con leche 100% Vaca natural ofreciendo lo mejor del campo a tu mesa. Ofreciendo beneficios tales como: Mejor fuente de calcio, Vitamina B12, Fosforo, Potasio y un gran contenido de proteínas.",
+        "p2": "Proporciona una mejora de la salud digestiva y fortalece el sistema inmunológico. Esto se debe principalmente a los probióticos que contienen, ya que son muy útiles para el bienestar del sistema digestivo. cuenta también con propiedades antiinflamatorias.",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "1 Galon, 1/2 Galon y 10 Oz."
+      }
+    ]
+  }
+}

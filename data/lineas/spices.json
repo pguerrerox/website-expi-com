@@ -1,0 +1,21 @@
+{
+  "es": {
+    "banner": {
+      "imgBanner": "spicesBanner",
+      "imgLogo": "spicesLogo",
+      "h3_1": "Nuestras",
+      "h1": "Marcas",
+      "h3_2": "son reflejo de calidad",
+      "banner2": false
+    },
+    "productos": [
+      {
+        "prodImg":"spices_prod_1",
+        "prodDescMarked": "Linea Rottis Spices, ",
+        "prodDesc": "es una linea Organica de especias de nuestro campo de la mejor calidad. Nuestra variedades son: Oregano entero, Oregano Molido, Clavo DUlce, Canela en rama, Malagueta y Anis Estrellado.",
+        "prodPrePresentation": "Presentacion: ",
+        "prodPresentation": "3, 4, 6, 12 y 32 oz"
+      }
+    ]
+  }
+}

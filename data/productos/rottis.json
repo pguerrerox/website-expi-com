@@ -1,0 +1,80 @@
+{
+  "es": {
+    "banner": {
+      "imgBanner": "rottis",
+      "imgLogo": "rottis"
+    },
+    "productos": [
+      {
+        "prodImg":"1",
+        "preMarked": "Nuestro Queso",
+        "marked": "Rottis",
+        "postMarked": "tipo holandés, es el reflejo de la tradición gastronómica dominicana, el cual se consume habitualmente en el desayuno y en la cena, pero de igual manera se le puede disfrutar en meriendas y picaderas.",
+        "p2": "Actualmente la marca Rottis elabora este queso tipo holandés con diferentes etapas de maduración, algunos tiernos, otros semi-maduros y otros maduros (30 días -45 -60 días y hasta más).",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "1.10 libras"
+      },
+      {
+        "prodImg":"2",
+        "preMarked": "El queso",
+        "marked": "Edam tipo holandés Rottis",
+        "postMarked": "es un queso de bola madurado, con textura firme, ligeramente salado y a medida que envejece concentra su sabor (Fuerte). Cuenta con diferentes etapas de maduración (45 días - 3 meses - 6 meses - 9 meses y más).",
+        "p2": "Puede tomarse como aperitivo o como postre, en tabla de quesos, en sándwich y acompañado por pan.",
+        "p3": "Estos Quesos Fuertes son excelentes para maridar con Vinos Tintos como el Pinot Noir.",
+        "pres1": "Presentacion:",
+        "pres2": "1.10 libras"
+      },
+      {
+        "prodImg":"3",
+        "preMarked": "Nuestro queso tipo",
+        "marked": "Gouda Rottis",
+        "postMarked": "es un queso elaborado a partir de leche de vaca pasteurizada y sobre sale por su color amarillento y su increíble sabor a la hora de degustar.",
+        "p2": "Es uno de los quesos madurados que poseen mayor nivel de proteínas, calcio y grasa. Es excelente para Maridar con un buen vino Merlot, elaboración de Salsas, sándwiches, entre otros, proporcionando como siempre toda da una experiencia.",
+        "p3": "Cuenta con diferentes etapas de maduración (45 días - 3 meses - 6 meses y más).",
+        "pres1": "Presentacion:",
+        "pres2": "1.7 libras en ruedas y 5 libras en barra"
+      },
+      {
+        "prodImg":"4",
+        "preMarked": "El queso de",
+        "marked": "Hoja Rottis,",
+        "postMarked": "es caracterizado por ser un queso fresco, cremoso y fibroso. Con una corteza semi blanda y el interior cremoso.",
+        "p2": "Excelente para personas que buscan un queso con mucho sabor y bajo en grasa.",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "1/2 libras y 1 libra"
+      },
+      {
+        "prodImg":"5",
+        "preMarked": "Nuestro",
+        "marked": "Yogurt Natural Rottis,",
+        "postMarked": "es un yogurt elaborado con leche 100% Vaca natural ofreciendo lo mejor del campo a tu mesa. Ofreciendo beneficios tales como: Mejor fuente de calcio, Vitamina B12, Fosforo, Potasio y un gran contenido de proteínas.",
+        "p2": "Proporciona una mejora de la salud digestiva y fortalece el sistema inmunológico. Esto se debe principalmente a los probióticos que contienen, ya que son muy útiles para el bienestar del sistema digestivo. cuenta también con propiedades antiinflamatorias.",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "1 Galon, 1/2 Galon y 10 Oz."
+      },
+      {
+        "prodImg":"6",
+        "preMarked": "El queso",
+        "marked": "Amarillo de freir Rottis,",
+        "postMarked": "es un queso fresco de color amarillo anaranjado de consistencia firme y compacta, Ideal para freír o ser rebanado.",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5 libras y 1 libra"
+      },
+      {
+        "prodImg":"7",
+        "preMarked": "El queso",
+        "marked": "Blanco de freir Rottis,",
+        "postMarked": "es un queso Fresco de textura semi blanda con un color blanco tenue, este se utiliza para ser acompañado con guarniciones de pure de plátano (Mangú) o de papa, tradicionalmente consumido en el desayuno.",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5 libras y 1 libra"
+      }
+    ]
+  }
+}

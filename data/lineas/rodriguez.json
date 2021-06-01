@@ -1,0 +1,21 @@
+{
+  "es": {
+    "banner": {
+      "imgBanner": "rodriguezBanner",
+      "imgLogo": "rodriguezLogo",
+      "h3_1": "Nuestras",
+      "h1": "Marcas",
+      "h3_2": "son reflejo de calidad",
+      "banner2": false
+    },
+    "productos": [
+      {
+        "prodImg":"rodriguez_prod_1",
+        "prodDescMarked": "Nuestra línea de Dulces, ",
+        "prodDesc": "en pastas como en crema son elaboradas a partir de leche fresca de calidad brindando lo mejor de nuestra zona de Bonao, R.D.",
+        "prodPrePresentation": "Presentacion: ",
+        "prodPresentation": "3, 4, 9, 16 oz. En pasta y en crema."
+      }
+    ]
+  }
+}

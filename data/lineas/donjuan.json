@@ -1,0 +1,30 @@
+{
+  "es": {
+    "banner": {
+      "imgBanner": "donjuanBanner",
+      "imgLogo": "donjuanLogo",
+      "h3_1": "Nuestras",
+      "h1": "Marcas",
+      "h3_2": "son reflejo de calidad",
+      "banner2":{
+        "imgBanner2": "donjuanBanner2",
+        "p": "El casabe, al ser un producto 100% natural aporta hidratos de carbono en abundancia, permite que sea un alimento que brinda la energia para afrontar el dia a dia. El Casabe tiene 9% de fibra. Es un alimento que se puede mezclar con miles de productos, ingredientes y sabores no solo de la comida dominicana sino con las cocinas del mundo."
+      }
+    },
+    "productos": [
+      {
+        "style": "row",
+        "banda": {
+          "p1": "casabe natural y de ajo",
+          "p2": "Premium y regular"
+        },
+        "prodImg":"donjuan_prod_1",
+        "prodDescMarked": "La línea Don Juan, ",
+        "prodDesc": "es una línea de casabe artesanal elaborada en dos denominaciones, premium y regular.",
+        "prodDesc2": "Este Casabe ofrece lo mejor de la zona noroeste la cual mantiene su tradición de elaboración de muchos años ofreciéndolos en gran diversidad de tamaños y combinación de especias e ingredientes de la zona.",
+        "prodPrePresentation": "Presentacion: ",
+        "prodPresentation": "7 oz, 7.5 oz, 8 oz"
+      }
+    ]
+  }
+}

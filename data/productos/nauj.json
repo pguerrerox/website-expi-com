@@ -1,0 +1,50 @@
+{
+  "es": {
+    "banner": {
+      "imgBanner": "nauj",
+      "imgLogo": "nauj"
+    },
+    "productos": [
+      {
+        "prodImg":"1",
+        "preMarked": "El queso",
+        "marked": "Blanco de Freír Nauj",
+        "postMarked": "es un queso de textura semi blanda con un color blanco tenue, este se utiliza para ser acompañado con guarniciones de pure de plátano (Mangú) o de papa, tradicionalmente consumido en el desayuno. Es bajo en sal y Bajo en grasa.",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5 libras y 1 libra"
+      },
+      {
+        "prodImg":"2",
+        "preMarked": "El queso",
+        "marked": "Amarillo de freír Nauj,",
+        "postMarked": "un queso de color amarillo anaranjado de consistencia firme y compacta, bajo en sal. Ideal para freír o ser rebanado.",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5 libras y 1 libra"
+      },
+      {
+        "prodImg":"3",
+        "preMarked": "El queso",
+        "marked": "Cheddar Nauj",
+        "postMarked": "es un queso semi-maduro de Fuerte sabor con una textura suave y firme el cual se derrite. Este es un queso bajo en sal. Utilizado de manera ideal en platos como emparedados, hamburguesas y Sándwiches.",
+        "p2": "Cuenta con un envejecimiento de 30 dias.",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5 libras y 1 libra"
+      },
+      {
+        "prodImg":"4",
+        "preMarked": "El queso de",
+        "marked": "Hoja Nauj,",
+        "postMarked": "es caracterizado por ser un queso fresco, cremoso y fibroso. Con una corteza semi blanda y el interior cremoso.",
+        "p2": "Excelente para personas que buscan un queso bajo en calorías y sal.",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "1/2 libra y 1 libra"
+      }
+    ]
+  }
+}

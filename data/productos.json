@@ -10,7 +10,7 @@
         "nombre": "rottis",
         "img": "rottisLogo",
         "p": "Nuestra línea de quesos maduros Rottis, está compuesta por los quesos Tipo Holandés, Tipo Edam y Tipo Gouda, todos caracterizados por sus diferentes aromas y gran sabor.",
-        "linkHref": "/rottis",
+        "linkHref": "/productos/rottis",
         "linkText": "ver productos"
       },
       {
@@ -18,7 +18,7 @@
         "img": "naujLogo",
         "p": "Los quesos Nauj se caracterizan por ser una línea baja en grasa y baja en sal. Dentro de esta línea podemos encontrar los quesos para freír tanto blanco como el amarillo, los cuales se pueden freír sin ningún tipo de aceite, ya que no se adhieren ni se derriten en la sartén.",
         "p2": "También dentro de esta línea pueden encontrar nuestro delicioso queso de hoja, el cual no contiene suero de leche y al igual que los quesos de freír esta empacado al vacío dado así una mejor conservación a este producto fresco.",
-        "linkHref": "/nauj",
+        "linkHref": "/productos/nauj",
         "linkText": "ver productos"
       },
       {
@@ -26,7 +26,7 @@
         "img": "costeroLogo",
         "p": "Nuestra línea de quesos Costero está compuesta por los deliciosos quesos de freír Blanco y Amarillo, con excelente sabor y textura. Los cuales suelen ser disfrutados por los dominicanos en desayunos y cenas.",
         "p2": "Dentro de esta línea también se encuentra el queso Costero tipo Holandés que se caracteriza por su sabor intenso y a la vez de un aroma suave.",
-        "linkHref": "/costero",
+        "linkHref": "/productos/costero",
         "linkText": "ver productos"
       },
       {
@@ -34,7 +34,7 @@
         "img": "barukLogo",
         "p": "La línea Baruk está compuesta por nuestros quesos Mozzarella y Danés. El queso mozzarella viene en una presentación en barra de 5 libras, ideal para ser utilizado en pizzas, lasañas, etc.",
         "p2": "Nuestro queso Danés se puede disfrutar en sándwiches y cortado en cubos para degustar en picaderas, de igual manera tiene una presentación de 5 libras.",
-        "linkHref": "/baruk",
+        "linkHref": "/productos/baruk",
         "linkText": "ver productos"
       },
       {
@@ -42,7 +42,7 @@
         "img": "donjuanLogo",
         "p": "La línea Don Juan, es una línea de casabe artesanal elaborada en dos denominaciones, premium y regular. ",
         "p2": "Este Casabe ofrece lo mejor de la zona noroeste la cual mantiene su tradición de elaboración de muchos años ofreciéndonos en gran diversidad de tamaños y combinación de especias e ingredientes de la zona.",
-        "linkHref": "/donjuan",
+        "linkHref": "/lineas/donjuan",
         "linkText": "ver productos"
       },
       {
@@ -50,21 +50,21 @@
         "img": "tildaLogo",
         "p": "La línea TILDA, es una línea premium con una amplia variedad de productos, tales como: Dulces en almíbar, orégano entero, orégano molido, salsa picante, avena en hojuelas, azúcar blanca, azúcar morena, trigo en granos, sazón criollo, sazón completo, mayonesa clásica, kétchup, salsa de tomate, casabe, salsa china, salsa inglesa y sazón líquido.",
         "p2": "Esta línea premium abarca lo mejor de cada producto elaborado en Rep. Dominicana.",
-        "linkHref": "/tilda",
+        "linkHref": "/productos/tilda",
         "linkText": "ver productos"
       },
       {
         "nombre": "piloto",
         "img": "pilotoLogo",
         "p": "Nuestra exquisita línea de dulces Piloto tanto en pastas como en crema, son elaborados a partir de leche fresca de calidad. Brindando lo mejor de nuestra zona provincia de Montecristi en la ciudad de Mao, Rep. Dominicana.",
-        "linkHref": "/piloto",
+        "linkHref": "/lineas/piloto",
         "linkText": "ver productos"
       },
       {
-        "nombre": "dulces",
-        "img": "dulcesLogo",
+        "nombre": "rodriguez",
+        "img": "rodriguezLogo",
         "p": "Nuestra línea de dulces de la dulcería Rodríguez, son elaborados en Bonao, Rep. Dominicana. La diversidad de dulces que precede de esta línea es elaborada con leche grado A siguiendo los parámetros requeridos para un producto de calidad.",
-        "linkHref": "/dulces",
+        "linkHref": "/lineas/rodriguez",
         "linkText": "ver productos"
       },
       {
@@ -72,7 +72,7 @@
         "img": "spicesLogo",
         "p": "La línea Rottis Spices, es una línea Orgánica de especias de nuestro campo de la mejor calidad.",
         "p2": "Nuestras variedades son: Orégano entero, Orégano Molido, Clavo Dulce, Canela en rema, Malagueta y Anís Estrellado.",
-        "linkHref": "/spices",
+        "linkHref": "/lineas/spices",
         "linkText": "ver productos"
       }
     ]

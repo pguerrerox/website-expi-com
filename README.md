@@ -1,4 +1,5 @@
 # progress!
+- v0.4.3 - individual products almost done, missing tilda
 - v0.4.2 - contacto main page done
 - v0.4.1 - productos main page done
 - v0.4.0 - productos main page progress 25%

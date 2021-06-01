@@ -1,0 +1,31 @@
+{
+  "es": {
+    "banner": {
+      "imgBanner": "pilotoBanner",
+      "imgLogo": "pilotoLogo",
+      "h3_1": "Nuestras",
+      "h1": "Marcas",
+      "h3_2": "son reflejo de calidad",
+      "banner2": false
+    },
+    "productos": [
+      {
+        "style": "row",
+        "banda": false,
+        "prodImg":"piloto_prod_1",
+        "prodDescMarked": "La Línea de Dulces Piloto, ",
+        "prodDesc": "viene tanto en pastas como en crema, son elaborados a partir de leche fresca de calidad brindando lo mejor de nuestra zona provincia de Montecristi en la ciudad de Mao, Rep. Dom.",
+        "prodPrePresentation": "Presentacion: ",
+        "prodPresentation": "4 oz y 9 oz"
+      },
+      {
+        "style": "row",
+        "banda": false,
+        "prodImg":"piloto_prod_2",
+        "prodDesc": "Nuestra Deliciosa Linea en Crema tiene las siguientes Variedades: Dulce de crema de leche, Dulce leche con coco, Dulce de Piña, Dulce Cortado de Leche.",
+        "prodPrePresentation": "Presentacion: ",
+        "prodPresentation": "4 oz, 12 oz, 16 oz"
+      }
+    ]
+  }
+}
