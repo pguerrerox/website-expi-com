@@ -17,13 +17,13 @@ export default function Nosotros(props) {
   return (
     <>
       {/* Seccion 1 */}
-      <section>
+      <section className='Nosotros_section1'>
         <div className='container overflow-hidden'>      
           <div className=''>
             <img className='float-right imgElDon' src={`/images/nosotros/${sect1.img}.png`} alt="" />
             <div className=''>
               <h2 className='text-center font-primary'>{sect1.h2}</h2>
-              <h1 className='text-center font-primary'>{sect1.h1}</h1>
+              <h1 className='text-center font-markinson font-primary'>{sect1.h1}</h1>
               {
                 paragraph.map( (elem, index) => {
                   return(
@@ -37,17 +37,17 @@ export default function Nosotros(props) {
       </section>
 
       {/* Seccion 2 */}
-      <section>
+      <section className='Nosotros_section2'>
         <div className='border-top-2 border-bot-2 py-4'>
-          <div className='container d-flex flex-row justify-content-between'>
+          <div className='container d-flex flex-column justify-content-center flex-lg-row justify-content-lg-between'>
             {
             sect2.map( (elem, index) => {
               return(
-                <div className='col-3 py-4' key={index}>
-                  <h1 className='text-center font-primary' > {elem.h1} </h1>
+                <div className='col col-lg-3 py-4' key={index}>
+                  <h1 className='text-center text-primary text-capitalize font-markinson'> {elem.h1} </h1>
                   {!elem.p 
                   ?
-                  <ul className='text-center list-unstyled'>
+                  <ul className='text-center text-capitalize list-unstyled'>
                     {elem.list.map( (li, index) => {
                       return(
                         <li className={index}> {li} </li>
@@ -55,7 +55,7 @@ export default function Nosotros(props) {
                     })}
                   </ul> 
                   :
-                  <p> {elem.p} </p>
+                  <p className='text-center'> {elem.p} </p>
                   }
                 </div>
               )
@@ -67,10 +67,10 @@ export default function Nosotros(props) {
 
       {/* Seccion 3 */}
       <section>
-        <div className='bgImage my-4'>
+        <div className='bgImage mt-4'>
           <div className='container'>
             <div className="vertical3er row">
-              <div className='vertical3erInner col-2 d-flex'>
+              <div className='vertical3erInner col-4 col-md-3 col-lg-2 d-flex'>
                 <img className='vertical3erImg px-1 align-self-center' src={`/images/${sect3.vertical3er}.png`}/>
               </div>
             </div>
@@ -81,7 +81,7 @@ export default function Nosotros(props) {
       {/* JSX styling */}
       <style jsx>{`
       // seccion 1
-      .imgElDon{ height: 550px; shape-outside: url(${`/images/nosotros/${sect1.img}.png`}); shape-margin: 25px; margin-left: 25px; }
+      .imgElDon{ shape-outside: url(${`/images/nosotros/${sect1.img}.png`}); shape-margin: 25px; margin-left: 25px; }
 
       // seccion 3
       .bgImage{

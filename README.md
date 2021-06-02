@@ -1,5 +1,6 @@
 # progress!
-- v0.5.0 - index pages 100% done
+- v0.5.1 - nosotros page 100% done
+- v0.5.0 - index page 100% done
 - v0.4.3 - individual products almost done, missing tilda
 - v0.4.2 - contacto main page done
 - v0.4.1 - productos main page done

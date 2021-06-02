@@ -115,6 +115,15 @@ div.svg:hover .fa-bars{ fill: $dark !important }
     h1{ font-size: 2.75rem;}
   }
 
+  .Nosotros_section1{
+    h1{font-size: 4.5rem;}
+    h2{font-size: 1.25rem;}
+    .imgElDon{ height: 400px;}
+  }
+  .Nosotros_section2{
+    h1{font-size: 4rem;}
+  }
+
 
 
 }
@@ -129,8 +138,20 @@ div.svg:hover .fa-bars{ fill: $dark !important }
   .footerItems{margin: 10px 0;}
   .redesLogo{height: 40px;}
 
-  .Index_banner h1 {font-size: 1.5rem;}
-  .section1logo{height: 350px;}
+  .Index_banner{
+    h1 {font-size: 1.5rem;}
+    .section1logo{height: 350px;}
+  }
+
+  .Nosotros_section1{
+    h1{font-size: 4.5rem;}
+    h2{font-size: 1.25rem;}
+    .imgElDon{ height: 470px;}
+  }
+  .Nosotros_section2{
+    h1{font-size: 4rem;}
+  }
+
   
   
 }
@@ -156,14 +177,19 @@ div.svg:hover .fa-bars{ fill: $dark !important }
     .section1logo{height: 350px;}
   }
 
+  .Nosotros_section1{
+    h1{font-size: 4.5rem;}
+    h2{font-size: 1.25rem;}
+    .imgElDon{ height: 575px;}
+  }
+
+
 
 
 }
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
   .HeaderMid img{height: 175px}
-
-
 }
 
 @import "../node_modules//bootstrap/scss/bootstrap";
