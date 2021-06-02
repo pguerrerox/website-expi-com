@@ -31,11 +31,11 @@ export default function Lineas_productos_1(props) {
             </div>
           }
           <div className='container py-4'>
-            <div className='d-flex' style={props.eID % 2 == 0 ? { flexDirection: 'row' } : { flexDirection: 'row-reverse' }}>
-              <div className="d-flex justify-content-center col-6">
+            <div className={`d-flex flex-column ${props.eID %2 ==0 ? 'flex-lg-row': 'flex-lg-row-reverse'}`}>
+              <div className="d-flex justify-content-center col col-lg-6">
                 <img className='w-100' src={`/images/prods/${props.prodImg}.png`} alt="imagen del producto" />
               </div>
-              <div className='text-center d-flex flex-column justify-content-center py-4 col-5'>
+              <div className='text-center d-flex flex-column justify-content-center py-4 col col-lg-6'>
                 <p><span className='text-primary bold'>{props.prodDescMarked}</span>{props.prodDesc}</p>
                 {props.prodDesc2 && <p>{props.prodDesc2}</p>}
                 <p><span className='bold'>{props.prodPrePresentation}</span>{props.prodPresentation}</p>

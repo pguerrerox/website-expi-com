@@ -132,11 +132,12 @@ div.svg:hover .fa-bars{ fill: $dark !important }
   .Contacto_gracias{
     h5{font-size: 1.10rem;}
   }
-  .Prod_banner{
+  .Prod_banner, .Lineas_banner{
     .banner{height: 250px;}
   }
-
-
+  .Lineas_banner{
+    h1{font-size: 4.5rem;}
+  }
 }
 
 
@@ -171,8 +172,11 @@ div.svg:hover .fa-bars{ fill: $dark !important }
   .Contacto_gracias{
     h5{font-size: 1.10rem;}
   }
-  .Prod_banner{
+  .Prod_banner, .Lineas_banner{
     .banner{height: 300px;}
+  }
+  .Lineas_banner{
+    h1{font-size: 4.5rem;}
   }
 }
 
@@ -193,7 +197,6 @@ div.svg:hover .fa-bars{ fill: $dark !important }
     h1{ font-size: 2rem;}
     .section1logo{height: 350px;}
   }
-
   .Nosotros_section1{
     h1{font-size: 4.5rem;}
     h2{font-size: 1.25rem;}
@@ -203,14 +206,14 @@ div.svg:hover .fa-bars{ fill: $dark !important }
     h1{font-size: 6rem;}
     h3{font-size: 1.75rem}
   }
-  .Prod_banner{
+  .Prod_banner, .Lineas_banner{
     .banner{height: 350px;}
   }
-
-
-
-
+  .Lineas_banner{
+    h1{font-size: 4.5rem;}
+  }
 }
+
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
   .HeaderMid img{height: 175px}
