@@ -6,7 +6,7 @@ export default function Footer(props) {
   return (
     <footer className='container-fluid px-0 bg-secondary d-flex flex-column justify-content-center text-light'>
       <div className='footerTop container py-5 px-0 bg-secondary text-center'>
-        <div className="footerBorders row">
+        <div className="footerBorders row col px-0 mx-0">
           {top.map((item, index) =>
             <div className='footerItems col-md-6 col-lg-3' key={index}>
               <h5 className='text-primary'>{item.h5}</h5>

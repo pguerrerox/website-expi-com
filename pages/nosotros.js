@@ -50,7 +50,7 @@ export default function Nosotros(props) {
                   <ul className='text-center text-capitalize list-unstyled'>
                     {elem.list.map( (li, index) => {
                       return(
-                        <li className={index}> {li} </li>
+                        <li key={index}> {li} </li>
                       )
                     })}
                   </ul> 

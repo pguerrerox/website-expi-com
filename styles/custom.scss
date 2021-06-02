@@ -123,11 +123,12 @@ div.svg:hover .fa-bars{ fill: $dark !important }
   .Nosotros_section2{
     h1{font-size: 4rem;}
   }
-
-
+  .Productos_banner{
+    h1{font-size: 4.5rem;}
+    h3{font-size: 1.2rem}
+  }
 
 }
-
 
 
 // Small devices (landscape phones, 576px and up) */
@@ -151,13 +152,12 @@ div.svg:hover .fa-bars{ fill: $dark !important }
   .Nosotros_section2{
     h1{font-size: 4rem;}
   }
-
-  
+  .Productos_banner{
+    h1{font-size: 4.5rem;}
+    h3{font-size: 1.25rem}
+  }
   
 }
-
-
-
 
 // Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
@@ -182,9 +182,10 @@ div.svg:hover .fa-bars{ fill: $dark !important }
     h2{font-size: 1.25rem;}
     .imgElDon{ height: 575px;}
   }
-
-
-
+  .Productos_banner{
+    h1{font-size: 6rem;}
+    h3{font-size: 1.75rem}
+  }
 
 }
 // Extra large devices (large desktops, 1200px and up)
