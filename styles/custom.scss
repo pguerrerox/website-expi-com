@@ -114,7 +114,6 @@ div.svg:hover .fa-bars{ fill: $dark !important }
   .Index_section{
     h1{ font-size: 2.75rem;}
   }
-
   .Nosotros_section1{
     h1{font-size: 4.5rem;}
     h2{font-size: 1.25rem;}
@@ -132,6 +131,9 @@ div.svg:hover .fa-bars{ fill: $dark !important }
   }
   .Contacto_gracias{
     h5{font-size: 1.10rem;}
+  }
+  .Prod_banner{
+    .banner{height: 250px;}
   }
 
 
@@ -169,6 +171,9 @@ div.svg:hover .fa-bars{ fill: $dark !important }
   .Contacto_gracias{
     h5{font-size: 1.10rem;}
   }
+  .Prod_banner{
+    .banner{height: 300px;}
+  }
 }
 
 // Medium devices (tablets, 768px and up)
@@ -197,6 +202,9 @@ div.svg:hover .fa-bars{ fill: $dark !important }
   .Productos_banner{
     h1{font-size: 6rem;}
     h3{font-size: 1.75rem}
+  }
+  .Prod_banner{
+    .banner{height: 350px;}
   }
 
 

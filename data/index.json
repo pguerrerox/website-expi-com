@@ -23,5 +23,30 @@
             "lower3er": true,
             "img_lower3er": "logo_black"
         }
+    },
+    "en": {
+        "banner": {
+            "span1": "no matter where you are",
+            "span2": "We take it to you!",
+            "imgBanner": "logo"
+        },
+        "section1": {
+            "h1": "who we are?",
+            "p": "Exports Isabel was born with the need or absence that existed in the American market for Dominican products of national origin.",
+            "link": "/nosotros",
+            "link_text": "Find out more about us",
+            "bgimage":"section1",
+            "lower3er": false,
+            "img_lower3er": ""
+        },
+        "section2": {
+            "h1": "Know our products",
+            "p": "Our products are made with the best quality standards in the market.",
+            "link": "/productos",
+            "link_text": "Discover our products",
+            "bgimage":"section2",
+            "lower3er": true,
+            "img_lower3er": "logo_black"
+        }
     }
 }
