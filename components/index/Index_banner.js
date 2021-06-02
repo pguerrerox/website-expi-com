@@ -3,12 +3,12 @@ export default function Index_banner (props){
     let data = props.data;
 
     return(
-        <section className='py-5 bg-alternate border-top-1 border-bot-1'>
-            <div className='container d-flex flex-row justify-content-around'>
-                <h1 className='align-self-center text-center'>
-                    <span className='font-primary text-uppercase'>{data.span1}</span>
+        <section className='Index_banner py-5 bg-alternate border-top-1 border-bot-1'>
+            <div className='container d-flex flex-column justify-content-center align-items-center flex-lg-row justify-content-lg-between'>
+                <h1 className='align-self-center text-center text-uppercase font-trajan'>
+                    <span className='text-redish'>{data.span1}</span>
                     <br/>
-                    <span className='font-secondary text-uppercase'>{data.span2}</span>
+                    <span className='text-blueish'>{data.span2}</span>
                 </h1>
                 <img className='section1logo' src={`/images/${data.imgBanner}.png`}/>
             </div>

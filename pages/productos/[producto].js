@@ -8,26 +8,34 @@ import { useRouter } from 'next/router'
 // importing components
 import Prods_banner from '../../components/prods/Prods_banner';
 import Prods_productos from '../../components/prods/Prods_producto';
+import Lineas_bottom from '../../components/lineas/Lineas_bottom';
+import Productos_Banner from '../../components/productos/Productos_banner';
 
 
-export default function Prods (props) {
+export default function Prods(props) {
   const router = useRouter()
   const { productos } = router.query
-  
+
   let data = props.data;
   let lang = props.lang;
   let componentsProps = data[lang];
 
-  return(
+  console.log()
+  return (
     <>
-      <Prods_banner {...componentsProps.banner}/>
       {
-        componentsProps.productos.map( (prod, key) => {
-          return(
+        componentsProps.banner.imgBanner ?
+          <Prods_banner {...componentsProps.banner} /> :
+          <Productos_Banner {...componentsProps.banner.banner} />
+      }
+      {
+        componentsProps.productos.map((prod, key) => {
+          return (
             <Prods_productos {...prod} eID={key} sku={props.title} key={key} />
           )
         })
       }
+      <Lineas_bottom />
     </>
   )
 }
@@ -37,11 +45,11 @@ export default function Prods (props) {
 export async function getStaticPaths() {
   return {
     paths: [
-      { params: {producto: 'rottis'}},
-      {params: {producto: 'nauj'}},
-      {params: {producto: 'costero'}},
-      {params: {producto: 'baruk'}},
-      {params: {producto: 'tilda'}},
+      { params: { producto: 'rottis' } },
+      { params: { producto: 'nauj' } },
+      { params: { producto: 'costero' } },
+      { params: { producto: 'baruk' } },
+      { params: { producto: 'tilda' } },
     ],
     fallback: false
   };

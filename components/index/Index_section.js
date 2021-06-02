@@ -4,12 +4,12 @@ export default function Index_section (props){
     let islower3er = props.data.lower3er;
 
     return(
-        <section className='bgImage mt-4 d-flex flex-column justify-content-center align-items-center position-relative'>
-            <div className='container d-flex justify-content-end'>
-                <div className='bg-white col-5 p-4 d-flex flex-column justify-content-center text-center'>
-                    <h1 className='font-primary'>{data.h1}</h1>
-                    <p className='font-secondary p-2'>{data.p}</p>
-                    <a className='btn btn-primary font-white'>{data.link_text}</a>
+        <section className='Index_section bgImage mt-4 d-flex flex-column justify-content-center align-items-center position-relative'>
+            <div className='container d-flex justify-content-center justify-content-lg-end'>
+                <div className='bg-white col-10 col-lg-5 p-4 d-flex flex-column justify-content-center text-center'>
+                    <h1 className='font-markinson text-primary'>{data.h1}</h1>
+                    <p className='text-secondary p-2'>{data.p}</p>
+                    <a className='btn btn-primary text-white' href={data.link}>{data.link_text}</a>
                 </div>
             </div>
             <div className={`lower3er d-flex justify-content-end ${islower3er ? '' : 'hidden'}`}>

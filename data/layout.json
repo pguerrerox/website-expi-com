@@ -15,10 +15,6 @@
           "link": "/productos"
         },
         {
-          "page": "novedades",
-          "link": "/novedades"
-        },
-        {
           "page": "contacto",
           "link": "/contacto"
         }
@@ -27,20 +23,24 @@
     "footer": {
       "topFooter": [
         {
-          "h5": "Direccion",
-          "p": "Padre las Casas, Calle 5 No.13, Santiago, Rep. Dominicana"
+          "h5": "Dirección:",
+          "p": "Padre las Casas, Calle 5 No.13, Santiago, Rep. Dominicana",
+          "link":""
         },
         {
-          "h5": "Correo Electronico",
-          "p": "info@expi.com.do"
+          "h5": "Correo Electrónico:",
+          "p": "info@expi.com.do",
+          "link":"mailto:info@expi.com.do"
         },
         {
-          "h5": "Numero de Contacto",
-          "p": "(809) 241 - 2285"
+          "h5": "Numero de Contacto:",
+          "p": "(809) 241 - 2285",
+          "link":""
         },
         {
-          "h5": "Redes Sociales",
+          "h5": "Redes Sociales:",
           "p": "",
+          "link": "",
           "img": "instagram"
         }
       ],

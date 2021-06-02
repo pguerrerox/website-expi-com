@@ -1,0 +1,166 @@
+{
+  "es": {
+    "banner": {
+      "imgBanner": "",
+      "imgLogo": "tilda",
+      "banner": {
+        "h3": "nuestros",
+        "h1": "Productos",
+        "slogan": "Nuestras marcas son reflejo de calidad"
+      }
+    },
+    "productos": [
+      {
+        "prodImg":"1",
+        "h5": "Conservas o Dulces",
+        "preMarked": "Las conservas o dulces",
+        "marked": "TILDA,",
+        "postMarked": "son dulces tradicionales de las frutas mas buscadas por las personas en república dominicana, usadas frecuentemente como un postre luego de las comidas o usadas como una merienda.",
+        "p2": "TILDA ofrece estas variables para ustedes: Tajadas de Naranja, Cereza en su Jugo, Cajuil en Sirop, Trocitos de Piña, Lechosa en Sirop, Caco de Guayaba, y Coctel de Frutas",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "16 Oz"
+      },
+      {
+        "prodImg":"2",
+        "h5": "Azucar Blanca y Morena",
+        "preMarked": "El azúcar de mesa es lo que llamamos sacarosa. Esta se extrae de la remolacha y la caña de azúcar y está compuesta por glucosa y fructosa.",
+        "marked": "",
+        "postMarked": "",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "16 y 24 Oz"
+      },
+      {
+        "prodImg":"3",
+        "h5": "avena en hojuelas (TILDA)",
+        "preMarked": "La avena es uno de los mejores cereales recomendados, ayuda a perder peso, rica en fibra, controla los niveles de azúcar en la sangre, mejora la digestión, mantiene el colesterol controlado, es una gran fuente de energía y protección al sistema inmunitario, ayuda al sistema nervioso y los huesos, regenera los tejidos y es una aliada de los tratamientos de belleza (exfoliantes, mantiene balanceado el ph en la piel), y evitan deshidratación.",
+        "marked": "",
+        "postMarked": "",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "16 y 24 Oz."
+      },
+      {
+        "prodImg":"4",
+        "h5": "trigo en granos (TILDA)",
+        "preMarked": "El trigo, como cualquier cereal, tiene una alta concentración de carbohidratos, que son los que nos brindan energía por varias horas. Por su parte, el germen concentra micro nutrimentos, como las vitaminas K, E y del complejo B, y minerales, como magnesio y fósforo, así como también es rico en proteínas y grasas saludables. Y ayuda a controlar los niveles de colesterol en sangre y a tener mejor salud intestinal.",
+        "marked": "",
+        "postMarked": "",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "16, 24 y 48 Oz."
+      },
+      {
+        "prodImg":"5",
+        "h5": "Casabe sabor original (TILDA)",
+        "h5_2": "Casabe con ajo (TILDA)",
+        "preMarked": "Este tipo de pan está elaborado a partir de la yuca, un tubérculo originario de Latinoamérica. La yuca es un tubérculo rico en hidratos de carbono que nos aportarán energía para poder hacer frente a la actividad cotidiana. Pero la yuca, no solo nos aportará la energía necesaria, sino que además nos dará otra serie de beneficios que no podemos perder de vista. Tales como vitaminas, minerales y la gran cantidad de fibra que nos aporta.",
+        "marked": "",
+        "postMarked": "",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "3, 7, 8 Oz."
+      },
+      {
+        "prodImg":"6",
+        "h5_2": "Oregano entero (TILDA)",
+        "h5": "Oregano Molido (TILDA)",
+        "preMarked": "",
+        "marked": "",
+        "postMarked": "El orégano (Origanum vulgare) es mucho más que un condimento para la pizza. Su nombre significa “la alegría de la montaña”, se utiliza en remedios naturales desde hace miles de años y es esencial en la cocina mediterránea. Combina muy bien en aderezos para ensaladas, o con quesos, carnes y huevos.",
+        "p2": "Se puede utilizar fresco, pero el aroma de sus hojas se intensifica con el secado. Al igual que otras hierbas, el orégano pierde su sabor con la cocción, por lo que es mejor añadirlo al final de la preparación.",
+        "p3": "El orégano contiene vitaminas A, C E y K, así como fibra, folato, hierro, magnesio, vitamina B_, calcio y potasio. Además, el orégano, que algunas veces es llamado _mejorana_ contiene potentes fitoquímicos que ofrecen potenciales beneficios de salud. La planta del orégano posee flavonoides, taninos, ácidos fenólicos, aceite esencial (carvacrol, timol, origaneno).",
+        "pres1": "Presentacion:",
+        "pres2": "3, 16, 24 Oz."
+      },
+      {
+        "prodImg":"7",
+        "h5": "mayonesa clasica (TILDA)",
+        "preMarked": "La mayonesa se emplea como acompañamiento de carnes, pescados, mariscos y hortalizas, así como de diversos alimentos preparados, por ejemplo: ensaladas, hamburguesas, perros calientes, sándwiches, pastas, papas fritas, etcétera.",
+        "marked": "",
+        "postMarked": "",
+        "p2": "Se emplea en la elaboración de ensaladas como la ensalada rusa, la ensalada de pollo, patatas o atún, o en el cóctel de gambas. Por su consistencia, se emplea frecuentemente como decoración.",
+        "p3": "En la cocina mediterránea esta salsa se sirve también caliente, normalmente en platos de pescado gratinados.",
+        "pres1": "Presentacion:",
+        "pres2": "14, 16, 64 Oz."
+      },
+      {
+        "prodImg":"8",
+        "h5": "Salsa de tomate (TILDA)",
+        "h5_2": "Pasta de tomate (TILDA)",
+        "preMarked": "La pasta de tomate es un concentrado de tomate a la que se le ha quitado tanto la piel como las semillas y que posee una textura final en forma de pasta de color rojo. Dependiendo de las condiciones de manufactura se puede emplear para la elaboración del kétchup o diluir para acabar haciendo un zumo de tomate.",
+        "marked": "",
+        "postMarked": "",
+        "p2": "La salsa de tomate o salsa roja es una salsa o pasta elaborada principalmente a partir de pulpa de tomates, a la que se le añade, dependiendo del tipo particular de salsa y del país en que sea elaborada.",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "14 oz y 1/2 kg"
+      },
+      {
+        "prodImg":"9",
+        "h5": "Salsa picante (TILDA)",
+        "h5_2": "",
+        "preMarked": "Una salsa picante es una salsa rica en especias empleada frecuentemente como condimento, y en algunos casos como salsa para mojar. En algunos países de las Antillas a las salsas picantes las suelen denominar “pimienta”.",
+        "marked": "",
+        "postMarked": "",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5 oz y 12 oz"
+      },
+      {
+        "prodImg":"10",
+        "h5": "Sazón completo (TILDA)",
+        "h5_2": "Sazón criollo (TILDA)",
+        "preMarked": "",
+        "marked": "",
+        "postMarked": "",
+        "p2": "Con un contenido de especias y condimentos que lo categoriza entre los uno de los mejores sazonadores completos y sazón criollo.",
+        "p3": "Elaborado con ingredientes que dan un toque a las comidas.",
+        "pres1": "Presentacion:",
+        "pres2": "3, 8, 12 oz"
+      },
+      {
+        "prodImg":"11",
+        "h5": "Sazón liquido (TILDA)",
+        "h5_2": "",
+        "preMarked": "El sazón líquido es típico de la cocina Dominicana, está elaborado a partir de las más frescas verduras y vegetales, dando a las comidas el auténtico sabor criollo.",
+        "marked": "",
+        "postMarked": "",
+        "p2": "Aporta los ingredientes claves de una manera práctica y conveniente. Es bajo en grasa y sal lo cual favorece la salud. Utilice el Sazón líquido para sazonar carnes, habichuelas, aves y mariscos.",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5, 10, 15, 23 y 128 oz"
+      },
+      {
+        "prodImg":"12",
+        "h5": "Salsa china (TILDA)",
+        "h5_2": "",
+        "preMarked": "Este condimento o salsa es uno de los más antiguos del mundo y proviene de la China. En ese entonces se acostumbraba a conservar las carnes mediante “salazón”.",
+        "marked": "",
+        "postMarked": "",
+        "p2": "El jugo que sobraba de este marinado se aprovechaba como condimento.",
+        "p3": "En nuestro país se le atribuye el uso de esta salsa para arroces, marinados, pastas, etc.",
+        "pres1": "Presentacion:",
+        "pres2": "5, 10, 15, 23 y 128 oz"
+      },
+      {
+        "prodImg":"13",
+        "h5": "Salsa Inglesa (TILDA)",
+        "h5_2": "",
+        "preMarked": "La salsa Worcestershire, también conocida como salsa Worcester o salsa inglesa o simplemente salsa Perrins, es un condimento líquido fermentado usado como saborizante de salsas (sobre todo en la cocina inglesa).",
+        "marked": "",
+        "postMarked": "",
+        "p2": "Se elabora con vinagre, melaza, jarabe de maíz, agua, pimiento o pimentón, salsa de soja, tamarindo, anchoas, cebollas, chalotas, vino _ocasionalmente_, clavo de olor y ajo. Se considera un potenciador del sabor empleado en diversos platos, tanto cocidos como crudos, y en la cocina inglesa se aplica a la carne de res.",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5, 10, 15, 23 y 128 oz"
+      }
+    ]
+  }
+}

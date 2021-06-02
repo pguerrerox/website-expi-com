@@ -7,14 +7,10 @@ import Footer from '../components/footer';
 
 export default function LayoutDefault(props) {
   const defaultTitle = 'Exportaciones Isabel, SRL - Republica Dominicana';
-//   const pageTitle = props.children.props.title;
-//   const modalData = props.data[props.lang].modal;
-//   const formData = props.formData[props.lang].form;
 
   return (
     <>
       <Head>
-        {/* <title>{pageTitle ? (pageTitle + ' - ' + defaultTitle) : defaultTitle}</title> */}
         <title>{defaultTitle}</title>
 
         {/* viewport */}

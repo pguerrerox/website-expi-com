@@ -1,0 +1,30 @@
+{
+  "es": {
+    "banner": {
+      "imgBanner": "baruk",
+      "imgLogo": "baruk"
+    },
+    "productos": [
+      {
+        "prodImg":"1",
+        "preMarked": "El queso",
+        "marked": "Mozzarella Baruk,",
+        "postMarked": "se caracteriza por ser un queso semi-maduro, fibroso y prácticamente descremado, ideal para platos donde se requiera un queso bajo en sal y a la vez con una textura suave.",
+        "p2": "Se comercializa tierno (unos 15 - 25 días), y semi-maduro (30-45-60 días).",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5 libras y 1 libra"
+      },
+      {
+        "prodImg":"2",
+        "preMarked": "Nuestro",
+        "marked": "Danes Baruk,",
+        "postMarked": "es un queso semi -maduro, semi-suave de un color amarillento tenue y bajo en sal. Excelente para ser utilizado en la elaboración de empanadas o ser degustado en una picadera.",
+        "p2": "Este producto cuenta con un envejecimiento de 30 y 45 dias.",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5 libras y 1 libra"
+      }
+    ]
+  }
+}
