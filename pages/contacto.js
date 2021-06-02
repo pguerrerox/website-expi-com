@@ -17,7 +17,7 @@ export default function Contacto(props) {
     <Top {...data.top}/>
     <Gracias {...data.gracias}/>
     <div className='container'>
-      <div className='row my-3'>
+      <div className='row my-2'>
         <Form {...data.form}/>
         <Informacion {...data.info}/>
       </div>

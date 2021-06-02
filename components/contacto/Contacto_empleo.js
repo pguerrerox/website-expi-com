@@ -71,16 +71,15 @@ class Contacto_empleo extends Component {
     let statusError = 'text-danger'
 
     return (
-      <section className='mt-5 py-5 row' style={{"background": `url('/images/contacto/${texto.bgimage}.png')`, "background-size" : "cover", "background-position" : "center" }}>
+      <section className='mt-5 py-5' style={{"background": `url('/images/contacto/${texto.bgimage}.png')`, "backgroundSize" : "cover", "backgroundPosition" : "center" }}>
         <div className='container'>
-          <div className='d-flex flex-row align-items-center row'>            
-            <div className='col-lg-6 text-white d-flex flex-column' style={{"text-shadow": "7px 7px 14px black"}}>
-              <h2 className='bold'>{texto.h2}</h2>
-              <p>{texto.p1} {texto.p2}</p>
-              {/* <img className='pt-5 align-self-center' src={`/images/${texto.img}.png`} alt="" style={{"width" : "150px"}}/> */}
+          <div className='d-flex flex-column justify-content-center align-items-center flex-lg-row'>            
+            <div className='col-10 col-lg-6 text-white d-flex flex-column' style={{"textShadow": "7px 7px 14px black"}}>
+              <h2 className='text-center bold'>{texto.h2}</h2>
+              <p className='text-justify'>{texto.p1} {texto.p2}</p>
             </div>
 
-            <div className="col-lg-6 p-0" id='form'>
+            <div className="col p-0" id='form'>
               {
                 this.state.statusShow
                 ?
@@ -90,7 +89,7 @@ class Contacto_empleo extends Component {
                   </div>
                 </div>
                 :
-                <form className='col m-4 px-5 py-4 bg-light rounded' style={this.state.statusShow ? displayNone : displayAll} action="?" method="POST" onSubmit={this.handleSubmit}>
+                <form className='m-4 px-5 py-4 bg-light rounded' style={this.state.statusShow ? displayNone : displayAll} action="?" method="POST" onSubmit={this.handleSubmit}>
                   <input type="hidden" name="referrer" value={referrer} />
                   {
                     Object.keys(fields).map((key, i) => {

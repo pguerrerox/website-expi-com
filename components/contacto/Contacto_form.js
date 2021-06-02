@@ -71,7 +71,7 @@ class Contacto_form extends Component {
     let statusError = 'text-danger'
 
     return (
-      <section className="col-lg-6 p-0" id='form'>
+      <section className="d-flex justify-content-center p-0 col-lg-6" id='form'>
         <div className='content row m-0 h-100'>
           {
             this.state.statusShow
@@ -101,7 +101,7 @@ class Contacto_form extends Component {
               }
               <div className='form-group'>
                 <label className='text-primary font-weight-bold' htmlFor={data.message.id}>{data.message.label + ":"}</label>
-                <textarea rows="7" className='form-control' type={data.message.type} id={data.message.id} name={data.message.id} placeholder={data.message.placeholder} value={this.state[data.message.id]} onChange={this.handleChange} required />
+                <textarea rows="4" className='form-control' type={data.message.type} id={data.message.id} name={data.message.id} placeholder={data.message.placeholder} value={this.state[data.message.id]} onChange={this.handleChange} required />
               </div>
               <div className='text-center'>
                 <div className='g-recaptcha d-flex justify-content-center my-3 mx-auto' data-sitekey='6Le71csUAAAAAPue6urY3ZnYIlGNhM0A0W4iPvRI'></div>

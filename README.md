@@ -1,4 +1,5 @@
 # progress!
+- v0.5.3 - contacto page 100% done
 - v0.5.2 - productos page 100% done
 - v0.5.1 - nosotros page 100% done
 - v0.5.0 - index page 100% done

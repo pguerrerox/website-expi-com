@@ -15,9 +15,9 @@ export default function Productos(props) {
     <Productos_Banner {...data.banner}  />
     <div className='wraperProductos'>
       {
-        productos.map((x) => {
+        productos.map((x, index) => {
           return(
-            <Productos_ads {...x} />
+            <Productos_ads {...x} key={index}/>
           )}
         )
       }

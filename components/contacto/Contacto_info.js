@@ -12,10 +12,10 @@ export default function Contacto_info(props) {
             </div>
             <div className=''>
             {
-              props.informacion.map((info) => {
+              props.informacion.map((info, index) => {
                 if (info.id == "telefono") {
                   return (
-                    <div className='border-bot-2 py-4'>
+                    <div className='border-bot-2 py-4' key={index}>
                       <h4><span className='text-primary'>{info.marked}</span> {info.texto}</h4>
                       <h3>{info.dato1}</h3>
                     </div>
@@ -23,7 +23,7 @@ export default function Contacto_info(props) {
                 } else
                   if (info.id == "horario") {
                     return (
-                      <div className='border-bot-2 py-4'>
+                      <div className='border-bot-2 py-4' key={index}>
                         <h4><span className='text-primary'>{info.marked}</span> {info.texto}</h4>
                         <h4>{info.dato1}</h4>
                         <h3>{info.dato2}</h3>
@@ -31,7 +31,7 @@ export default function Contacto_info(props) {
                     )
                   } else {
                     return (
-                      <div className='py-4'>
+                      <div className='py-4' key={index}>
                         <h4>{info.texto} <span className='text-primary'>{info.marked}</span></h4>
                         <a href={info.linkHref}><h3>{info.dato1}</h3></a>
                       </div>

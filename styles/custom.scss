@@ -127,6 +127,13 @@ div.svg:hover .fa-bars{ fill: $dark !important }
     h1{font-size: 4.5rem;}
     h3{font-size: 1.2rem}
   }
+  .Contacto_top{
+    .section1logo{width:250px;}
+  }
+  .Contacto_gracias{
+    h5{font-size: 1.10rem;}
+  }
+
 
 }
 
@@ -156,7 +163,12 @@ div.svg:hover .fa-bars{ fill: $dark !important }
     h1{font-size: 4.5rem;}
     h3{font-size: 1.25rem}
   }
-  
+  .Contacto_top{
+    .section1logo{width:250px;}
+  }
+  .Contacto_gracias{
+    h5{font-size: 1.10rem;}
+  }
 }
 
 // Medium devices (tablets, 768px and up)
@@ -186,6 +198,9 @@ div.svg:hover .fa-bars{ fill: $dark !important }
     h1{font-size: 6rem;}
     h3{font-size: 1.75rem}
   }
+
+
+
 
 }
 // Extra large devices (large desktops, 1200px and up)
