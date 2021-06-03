@@ -27,5 +27,34 @@
         "prodPresentation": "4 oz, 12 oz, 16 oz"
       }
     ]
+  },
+  "en": {
+    "banner": {
+      "imgBanner": "pilotoBanner",
+      "imgLogo": "pilotoLogo",
+      "h3_1": "Our",
+      "h1": "Trademarks",
+      "h3_2": "they are a reflection of quality",
+      "banner2": false
+    },
+    "productos": [
+      {
+        "style": "row",
+        "banda": false,
+        "prodImg":"piloto_prod_1",
+        "prodDescMarked": "The Pilot Candy Line, ",
+        "prodDesc": "It comes in both pasta and cream, they are made from quality fresh milk offering the best of our Montecristi province area in the city of Mao, Dom. Rep.",
+        "prodPrePresentation": "Presentation: ",
+        "prodPresentation": "4 oz y 9 oz"
+      },
+      {
+        "style": "row",
+        "banda": false,
+        "prodImg":"piloto_prod_2",
+        "prodDesc": "Our Delicious Cream Line has the following Varieties: Dulce de crema de leche, dulce leche with coconut, sweet pineapple, sweet cut of milk.",
+        "prodPrePresentation": "Presentation: ",
+        "prodPresentation": "4 oz, 12 oz, 16 oz"
+      }
+    ]
   }
 }

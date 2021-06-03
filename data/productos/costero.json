@@ -9,7 +9,7 @@
         "prodImg":"1",
         "preMarked": "Nuestro queso",
         "marked": "tipo Holandés Costero,",
-        "postMarked": "es un queso pasteurizado con un sabor más fuerte a fuerte a las otras líneas de quesos holandeses.",
+        "postMarked": "es un queso pasteurizado con un sabor más fuerte a las otras líneas de quesos holandeses.",
         "p2": "Se caracteriza por ser el preferido para snacks y cuenta con diferentes etapas de maduración. algunos tiernos, otros semi-maduros y otros maduros (30 días y 45 días).",
         "p3": "Actualmente la marca Costero tiene una línea Regular y una línea Black Premium la línea premium tiene etapas de maduración de 60 días, 90 y 180 días).",
         "pres1": "Presentacion:",
@@ -44,6 +44,54 @@
         "p3": "",
         "pres1": "Presentacion:",
         "pres2": "1 Galon, 1/2 Galon y 10 Oz."
+      }
+    ]
+  },
+  "en": {
+    "banner": {
+      "imgBanner": "costero",
+      "imgLogo": "costero"
+    },
+    "productos": [
+      {
+        "prodImg":"1",
+        "preMarked": "Our cheese",
+        "marked": "Coastal Dutch type,",
+        "postMarked": "It is a pasteurized cheese with a stronger flavor than the other Dutch cheese lines.",
+        "p2": "It is characterized by being the preferred one for snacks and has different stages of maturation, some tender, others semi-ripe and others ripe (30 days and 45 days).",
+        "p3": "Currently the Costero brand has a regular line and a Black Premium line, the premium line has maturation stages of 60 days, 90 and 180 days).",
+        "pres1": "Presentacion:",
+        "pres2": "1.10 libras"
+      },
+      {
+        "prodImg":"2",
+        "preMarked": "Our cheese",
+        "marked": "Coastal Frying Yellow,",
+        "postMarked": "It is an exquisite fresh cheese full of flavor, smooth texture and suitable for all audiences. Its combination is infinite, since it is not only an act for breakfasts and cultural dishes but also for some Gourmet dishes.",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5 pounds and 1 pound"
+      },
+      {
+        "prodImg":"3",
+        "preMarked": "Our cheese",
+        "marked": "Coastal frying white,",
+        "postMarked": "It is an easy to fry fresh cheese, slightly salty and has a low caloric level.",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5 pounds and 1 pound"
+      },
+      {
+        "prodImg":"4",
+        "preMarked": "Our",
+        "marked": "Coastal Natural Yogurt,",
+        "postMarked": "It is a yogurt made with 100% natural cow milk offering the best of the field to your table. Offering benefits such as: Better source of calcium, Vitamin B12, Phosphorus, Potassium and a high protein content.",
+        "p2": "Provides improved digestive health and strengthens the immune system. This is mainly due to the probiotics they contain, as they are very useful for the well-being of the digestive system. it also has anti-inflammatory properties.",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "1 Gallon, 1/2 Gallon and 10 Oz."
       }
     ]
   }

@@ -46,5 +46,53 @@
         "pres2": "1/2 libra y 1 libra"
       }
     ]
+  },
+  "en": {
+    "banner": {
+      "imgBanner": "nauj",
+      "imgLogo": "nauj"
+    },
+    "productos": [
+      {
+        "prodImg":"1",
+        "preMarked": "Our cheese",
+        "marked": "Nauj frying white",
+        "postMarked": "is a cheese with a soft texture and a white color, it is used as side dish with mashed plantain (Mangú) or mashed potatoes, traditionally consume during breakfast. It is low on salt and fat.",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentation:",
+        "pres2": "5 pounds y 1 pound"
+      },
+      {
+        "prodImg":"2",
+        "preMarked": "Our cheese",
+        "marked": "Nauj frying yellow,",
+        "postMarked": "is a firm and consistent cheese with a orange-ish color, low on salt.",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentation:",
+        "pres2": "5 pound y 1 pound"
+      },
+      {
+        "prodImg":"3",
+        "preMarked": "Our cheese",
+        "marked": "Nauj Cheddar",
+        "postMarked": "is a cheese semi-matured with a strong flavor and a soft texture. It is also low on salt. Used mainly on patties, sandwitches and burgers.",
+        "p2": "This cheese is aged for approximately 30 days.",
+        "p3": "",
+        "pres1": "Presentation:",
+        "pres2": "5 pounds y 1 pounds"
+      },
+      {
+        "prodImg":"4",
+        "preMarked": "Our ",
+        "marked": "Nauj sheet cheese,",
+        "postMarked": "is 100% fresh, creamy with a fibrous texture. Its outer layer is soft and the interior is creamy.",
+        "p2": "It is excelent for people that want to taste a low calories and salt cheese.",
+        "p3": "",
+        "pres1": "Presentation:",
+        "pres2": "1/2 pound y 1 pound"
+      }
+    ]
   }
 }

@@ -1,4 +1,5 @@
 # progress!
+- v0.6.0 - all pages translated
 - v0.5.5 - lineas pages 100% done
 - v0.5.4 - prods pages 100% done
 - v0.5.3 - contacto page 100% done

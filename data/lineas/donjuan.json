@@ -26,5 +26,33 @@
         "prodPresentation": "7 oz, 7.5 oz, 8 oz"
       }
     ]
+  },
+  "en": {
+    "banner": {
+      "imgBanner": "donjuanBanner",
+      "imgLogo": "donjuanLogo2",
+      "h3_1": "Our",
+      "h1": "Trademarks",
+      "h3_2": "they are a reflection of quality",
+      "banner2":{
+        "imgBanner2": "donjuanBanner2",
+        "p": "The casabe, being a 100% natural product provides abundant carbohydrates, allows it to be a food that provides energy to face the day to day. The Casabe has 9% fiber. It is a food that can be mixed with thousands of products, ingredients and flavors not only of Dominican food but with the cuisines of the world."
+      }
+    },
+    "productos": [
+      {
+        "style": "row",
+        "banda": {
+          "p1": "natural casabe and garlic",
+          "p2": "Premium and regular"
+        },
+        "prodImg":"donjuan_prod_1",
+        "prodDescMarked": "The Don Juan line, ",
+        "prodDesc": "It is a line of artisan casabe made in two denominations, premium and regular.",
+        "prodDesc2": "This Casabe offers the best of the northwest area, which maintains its long-standing tradition of production, offering them in a wide variety of sizes and a combination of spices and ingredients from the area.",
+        "prodPrePresentation": "Presentation: ",
+        "prodPresentation": "7 oz, 7.5 oz, 8 oz"
+      }
+    ]
   }
 }

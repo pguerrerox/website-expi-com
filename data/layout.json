@@ -62,67 +62,50 @@
           "link": "/"
         },
         {
-          "page": "services",
+          "page": "About us",
           "link": "/nosotros"
         },
         {
-          "page": "contact",
-          "link": "/contact"
+          "page": "Our Products",
+          "link": "/productos"
+        },
+        {
+          "page": "Contact",
+          "link": "/contacto"
         }
       ]
     },
     "footer": {
-      "left": {
-        "logo": "logo_2",
-        "logoAlt": "Company Logo",
-        "slogan": "Building your own home is bla bla bla bla bla,."
-      },
-      "center": {
-        "title": "site map",
-        "sitemap": [
-          {
-            "page": "home",
-            "link": "/"
-          },
-          {
-            "page": "about us",
-            "link": "/about"
-          },
-          {
-            "page": "our services",
-            "link": "/services"
-          },
-          {
-            "page": "contact us",
-            "link": "/contact"
-          }
-        ]
-      },
-      "right": {
-        "title": "Contact Information",
-        "items": [
-          {
-            "title": "Address",
-            "text": "Ridgefield, NJ, USA",
-            "link": "https://goo.gl/maps/1s3Kq9VC8bgFqyCv8"
-          },
-          {
-            "title": "Telephone",
-            "text": "1 (201) 713-7691",
-            "link": "tel:1 201-713-7691"
-          },
-          {
-            "title": "Email",
-            "text": "Our email",
-            "link": "mailto:a.rosario@meadowlandscf.com"
-          }
-        ]
-      },
-      "copyright": "Copyright © 2020 - Meadowlands Construction and Flips LLC.",
-      "developer": {
-        "uno": "Developed with ⚒ by ",
-        "dos": "Duramente Web Studio",
-        "link": "https://duramente.com"
+      "topFooter": [
+        {
+          "h5": "Address:",
+          "p": "Padre las Casas, Calle 5 No.13, Santiago, Rep. Dominicana",
+          "link":""
+        },
+        {
+          "h5": "Email:",
+          "p": "info@expi.com.do",
+          "link":"mailto:info@expi.com.do"
+        },
+        {
+          "h5": "Telephone:",
+          "p": "(809) 241 - 2285",
+          "link":""
+        },
+        {
+          "h5": "Social Media:",
+          "p": "",
+          "link": "",
+          "img": "instagram"
+        }
+      ],
+      "botFooter": {
+        "copyright": "All rights reserved © 2021 - Exportaciones Isabel, SRL",
+        "developer": {
+          "uno": "Developed with 🪓🪓 by ",
+          "dos": "Duramente Web Studio",
+          "link": "https://duramente.com"
+        }
       }
     }
   }

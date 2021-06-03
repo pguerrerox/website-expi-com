@@ -17,5 +17,24 @@
         "prodPresentation": "3, 4, 9, 16 oz. En pasta y en crema."
       }
     ]
+  },  
+  "en": {
+    "banner": {
+      "imgBanner": "rodriguezBanner",
+      "imgLogo": "rodriguezLogo",
+      "h3_1": "Our",
+      "h1": "Brands",
+      "h3_2": "they are a reflection of quality",
+      "banner2": false
+    },
+    "productos": [
+      {
+        "prodImg":"rodriguez_prod_1",
+        "prodDescMarked": "Our line of Sweets,",
+        "prodDesc": "in pastas as in cream they are made from quality fresh milk offering the best of our area of Bonao, R.D.",
+        "prodPrePresentation": "Presentation: ",
+        "prodPresentation": "3, 4, 9, 16 oz. In paste and cream."
+      }
+    ]
   }
 }

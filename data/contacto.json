@@ -113,5 +113,120 @@
         "fail":"Ha ocurrido un error, vuelva a intentarlo mas tarde."
       }
     }
+  },
+  "en": {
+    "top":{
+      "img": "logo"
+    },
+    "gracias": {
+      "top": {
+        "h1": "Thank you for your interest in Exportadora Isabel",
+        "h5": "Your comments from her or her concerns are of great importance to us"
+      },
+      "bot": {
+        "pregunta": "How can we help you?",
+        "response": "At EXPI, we are here to serve you. Use the following form to contact our service team, once your message is received we will be contacting you to respond to your request or concern."
+      }
+    },
+    "info": {
+      "marked": "You can contact us ",
+      "h2": "using any of these means",
+      "informacion": [
+        {
+          "id":"telefono",
+          "marked": "Via telephone",
+          "texto":"to the following number:",
+          "dato1":"(809) 241-2285"
+        },
+        {
+          "id":"horario",
+          "marked": "Our working schedule",
+          "texto":"is:",
+          "dato1":"Monday to Friday",
+          "dato2":"8:00 am / 5:00 pm"
+        },
+        {
+          "id":"redes",
+          "marked": "social networks:",
+          "texto":"In our",
+          "dato1":"@expi.rd",
+          "linkText": "Instagram",
+          "linkHref":"asdasdasd"
+        }
+      ]
+    },
+    "form":{
+      "fields":{
+        "name": {
+          "id": "nombre",
+          "label": "Name",
+          "placeholder": "John Doe",
+          "type":"texto"
+        },
+        "email": {
+          "id": "email",
+          "label": "Email",
+          "placeholder": "john_doed@example.com",
+          "type":"email"
+        },
+        "subject": {
+          "id": "asunto",
+          "label": "Subject",
+          "placeholder": "What information do you need?",
+          "type":"text"
+        }
+      },
+      "message": {
+        "id": "mensaje",
+        "label": "Message",
+        "placeholder": "Write more details here",
+        "type":"text"
+      },
+      "button": {
+        "text": "Submit"
+      },
+      "status":{
+        "success":"The message was sent successfully!",
+        "fail":"An error has occurred, please try again later."
+      }
+    },
+    "empleo":{
+      "texto":{
+        "h2":"Do you want to work with us?",
+        "p1": "Using the following form you can send us your curriculum (CV).",
+        "p2": "The form only allows you to send PDF files and the maximum size is 2 megabytes (MB).",
+        "img": "logo",
+        "bgimage": "cargero"
+
+      },
+      "fields":{
+        "name": {
+          "id": "nombre",
+          "label": "Name",
+          "placeholder": "John Doe",
+          "type":"texto"
+        },
+        "email": {
+          "id": "email",
+          "label": "Correo Electronico",
+          "placeholder": "john_doed@example.com",
+          "type":"email"
+        },
+        "file": {
+          "id": "attachFile",
+          "label": "File",
+          "placeholder": "curriculum.pdf",
+          "type":"file",
+          "accept": "application/pdf, .pdf"
+        }
+      },
+      "button": {
+        "text": "Submit"
+      },
+      "status":{
+        "success":"The message was sent successfully!",
+        "fail":"An error has occurred, please try again later."
+      }
+    }
   }
 }

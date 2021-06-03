@@ -26,5 +26,33 @@
         "pres2": "5 libras y 1 libra"
       }
     ]
+  },
+  "en": {
+    "banner": {
+      "imgBanner": "baruk",
+      "imgLogo": "baruk"
+    },
+    "productos": [
+      {
+        "prodImg":"1",
+        "preMarked": "The cheese",
+        "marked": "Mozzarella Baruk,",
+        "postMarked": "It is characterized by being a semi-mature, fibrous and practically skim cheese, ideal for dishes that require a low-salt cheese and at the same time with a soft texture.",
+        "p2": "It is marketed tender (about 15 - 25 days), and semi-ripe (30-45-60 days).",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5 pounds and 1 pound"
+      },
+      {
+        "prodImg":"2",
+        "preMarked": "Our",
+        "marked": "Danish Baruk,",
+        "postMarked": "It is a semi-ripe, semi-soft cheese with a faint yellowish color and low in salt. Excellent to be used in the elaboration of patties or to be tasted in a snacks.",
+        "p2": "This product has an aging of 30 and 45 days.",
+        "p3": "",
+        "pres1": "Presentacion:",
+        "pres2": "5 pounds and 1 pound"
+      }
+    ]
   }
 }

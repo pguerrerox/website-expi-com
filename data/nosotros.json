@@ -1,6 +1,6 @@
 {
   "es": {
-    "historia":{
+    "historia": {
       "h2": "Nuestra",
       "h1": "Historia",
       "p": [
@@ -22,15 +22,57 @@
       },
       {
         "h1": "valores",
-        "list": ["calidad", "responsabilidad", "confianza", "Seguridad", "innovación", "compromiso social"]
+        "list": [
+          "calidad",
+          "responsabilidad",
+          "confianza",
+          "Seguridad",
+          "innovación",
+          "compromiso social"
+        ]
       }
     ],
-    "banner":{
+    "banner": {
       "imgbg": "almacen",
       "vertical3er": "logo_black"
     }
   },
-  "en":{
-
+  "en": {
+    "historia": {
+      "h2": "Our",
+      "h1": "History",
+      "p": [
+        "In the summer of 1992, Mr. Francisco Pérez made a tourist visit to the United States, visiting some wineries and supermarkets in the states of New York, New Jersey and others, where after a few days he identified the need for some Dominican products that they were not reaching the country.",
+        "Given this untapped market niche, he jumped on the entrepreneurial train and created the company Distribuidora Quisqueya in NY as a distribution center and Isabel Exports, in his native country (Dominican Republic), becoming the company that would provide all demand from the Dominican market in United States.",
+        "The businessman Francisco Pérez, begins with his first product, the Dutch type cheese, exporting about 3,000 kilos per week and in about 5 years achieving about 35,000 kilos of it.",
+        "Now a days, Exportaciones Isabel, sells a great variety of Dominican products that identify the Dominican with his land."
+      ],
+      "img": "eldon"
+    },
+    "estrategia": [
+      {
+        "h1": "mission",
+        "p": "Exporting Dominican products that meet the quality standards required by our customers, guaranteeing them a delivery on time and a personalized service."
+      },
+      {
+        "h1": "vision",
+        "p": "To become a strategic partner of our clients so that they identify us as their best option when it comes to importing quality products."
+      },
+      {
+        "h1": "value",
+        "list": [
+          "quality",
+          "responsibility",
+          "trust",
+          "safety",
+          "innovation",
+          "social commitment"
+        ]
+      }
+    ],
+    "banner": {
+      "imgbg": "almacen",
+      "vertical3er": "logo_black"
+    }
   }
 }

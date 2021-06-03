@@ -76,5 +76,83 @@
         "pres2": "5 libras y 1 libra"
       }
     ]
+  },
+  "en": {
+    "banner": {
+      "imgBanner": "rottis",
+      "imgLogo": "rottis"
+    },
+    "productos": [
+      {
+        "prodImg":"1",
+        "preMarked": "Our",
+        "marked": "Rottis Dutch cheese,",
+        "postMarked": "is the reflection of the Dominican gastronomic tradition, which is usually consumed at breakfast and dinner, but can also be enjoyed in snacks and snacks.",
+        "p2": "Currently the Rottis brand makes this Dutch type cheese with different stages of maturation, some soft, others semi-ripe and others ripe (30 days -45 -60 days and even more).",
+        "p3": "",
+        "pres1": "Presentation:",
+        "pres2": "1.10 pounds"
+      },
+      {
+        "prodImg":"2",
+        "preMarked": "The cheese",
+        "marked": "Edam Dutch type Rottis",
+        "postMarked": "is a matured ball cheese, with a firm texture, slightly salty and as it ages it concentrates its flavor (Strong). It has different stages of maturation (45 days - 3 months - 6 months - 9 months and more) .",
+        "p2": "It can be taken as an aperitif or as a dessert, on a cheese board, in a sandwich and accompanied by bread.",
+        "p3": "These Strong Cheeses are excellent to pair with Red Wines such as Pinot Noir.",
+        "pres1": "Presentation:",
+        "pres2": "1.10 pounds"
+      },
+      {
+        "prodImg":"3",
+        "preMarked": "Our type cheese",
+        "marked": "Gouda Rottis",
+        "postMarked": "is a cheese made from pasteurized cow's milk and it comes off because of its yellowish color and its incredible taste when tasting.",
+        "p2": "It is one of the matured cheeses that have the highest level of protein, calcium and fat. It is excellent to pair with a good Merlot wine, preparation of sauces, sandwiches, among others, providing as always everything gives an experience.",
+        "p3": "It has different stages of maturation (45 days - 3 months - 6 months and more).",
+        "pres1": "Presentation:",
+        "pres2": "1.7 pounds round and 5 pounds bar"
+      },
+      {
+        "prodImg":"4",
+        "preMarked": "Our",
+        "marked": "Rottis sheet cheese,",
+        "postMarked": "is characterized by being a fresh, creamy and fibrous cheese. With a semi-soft rind and a creamy interior.",
+        "p2": "Excellent for people looking for a high-flavor, low-fat cheese.",
+        "p3": "",
+        "pres1": "Presentation:",
+        "pres2": "1/2 pound and 1 pound"
+      },
+      {
+        "prodImg":"5",
+        "preMarked": "Our",
+        "marked": "Natural Yogurt Rottis,",
+        "postMarked": "is a yogurt made with 100% natural cow's milk offering the best of the field to your table. Offering benefits such as: Better source of calcium, Vitamin B12, Phosphorus, Potassium and a high protein content.",
+        "p2": "Provides an improvement in digestive health and strengthens the immune system. This is mainly due to the probiotics they contain, as they are very useful for the well-being of the digestive system. It also has anti-inflammatory properties.",
+        "p3": "",
+        "pres1": "Presentation:",
+        "pres2": "1 Gallon, 1/2 Gallon and 10 Oz."
+      },
+      {
+        "prodImg":"6",
+        "preMarked": "Our",
+        "marked": "Rottis frying yellow cheese,",
+        "postMarked": "is a fresh, yellow-orange cheese with a firm and compact consistency, ideal for frying or slicing.",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentation:",
+        "pres2": "5 pounds and 1 pound"
+      },
+      {
+        "prodImg":"7",
+        "preMarked": "Our",
+        "marked": "Rottis frying white cheese,",
+        "postMarked": "is a fresh cheese with a semi-soft texture with a faint white color, this is used to be accompanied with garnishes of mashed banana (Mangú) or potato, traditionally consumed for breakfast.",
+        "p2": "",
+        "p3": "",
+        "pres1": "Presentation:",
+        "pres2": "5 pounds and 1 pound"
+      }
+    ]
   }
 }

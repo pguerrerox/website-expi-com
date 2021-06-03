@@ -17,5 +17,24 @@
         "prodPresentation": "3, 4, 6, 12 y 32 oz"
       }
     ]
+  },
+  "en": {
+    "banner": {
+      "imgBanner": "spicesBanner",
+      "imgLogo": "spicesLogo",
+      "h3_1": "Our",
+      "h1": "Brands",
+      "h3_2": "they are a reflection of quality",
+      "banner2": false
+    },
+    "productos": [
+      {
+        "prodImg":"spices_prod_1",
+        "prodDescMarked": "Linea Rottis Spices, ",
+        "prodDesc": "is an Organic line of spices from our field of the best quality. Our varieties are: Whole Oregano, Ground Oregano, Sweet Cloves, Cinnamon Sticks, Malagueta and Star Anise.",
+        "prodPrePresentation": "Presentation:",
+        "prodPresentation": "3, 4, 6, 12 y 32 oz"
+      }
+    ]
   }
 }

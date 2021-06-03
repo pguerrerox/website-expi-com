@@ -76,5 +76,83 @@
         "linkText": "ver productos"
       }
     ]
+  },
+  "en": {
+    "banner": {
+      "h3": "our",
+      "h1": "Products",
+      "slogan": "Our brands are a reflection of quality"
+    },
+    "productos": [
+      {
+        "nombre": "rottis",
+        "img": "rottisLogo",
+        "p": "Our line of mature Rottis cheeses is made up of Dutch Type, Edam Type and Gouda Type cheeses, all characterized by their different aromas and great flavor.",
+        "linkHref": "/productos/rottis",
+        "linkText": "see products"
+      },
+      {
+        "nombre": "nauj",
+        "img": "naujLogo",
+        "p": "Nauj cheeses are characterized by being a line low in fat and low in salt. Within this line we can find both white and yellow cheeses for frying, which can be fried without any type of oil, since they do not adhere or melt in the pan.",
+        "p2": "Also within this line you can find our delicious leaf cheese, which does not contain whey and, like frying cheeses, is vacuum packed, thus giving a better conservation to this fresh product.",
+        "linkHref": "/productos/nauj",
+        "linkText": "see products"
+      },
+      {
+        "nombre": "costero",
+        "img": "costeroLogo",
+        "p": "Our line of Costero cheeses is made up of delicious white and yellow frying cheeses, with excellent flavor and texture. Which are usually enjoyed by Dominicans for breakfast and dinner.",
+        "p2": "Within this line there is also the Dutch type Coastal cheese that is characterized by its intense flavor and at the same time a soft aroma.",
+        "linkHref": "/productos/costero",
+        "linkText": "see products"
+      },
+      {
+        "nombre": "baruk",
+        "img": "barukLogo",
+        "p": "The Baruk line is made up of our Mozzarella and Danish cheeses. Mozzarella cheese comes in a 5-pound bar presentation, ideal to be used in pizzas, lasagna, etc.",
+        "p2": "Our Danish cheese can be enjoyed in sandwiches and cut into cubes to taste in picaderas, in the same way it has a presentation of 5 pounds.",
+        "linkHref": "/productos/baruk",
+        "linkText": "see products"
+      },
+      {
+        "nombre": "donjuan",
+        "img": "donjuanLogo",
+        "p": "The Don Juan line, is a line of artisan cassava made in two denominations, premium and regular.",
+        "p2": "This Casabe offers the best of the northwest area, which maintains its long-standing tradition of elaboration, offering us in a great diversity of sizes and a combination of spices and ingredients from the area.",
+        "linkHref": "/lineas/donjuan",
+        "linkText": "see products"
+      },
+      {
+        "nombre": "tilda",
+        "img": "tildaLogo",
+        "p": "The TILDA line, is a premium line with a wide variety of products, such as: Sweets in syrup, whole oregano, ground oregano, hot sauce, flaked oats, white sugar, brown sugar, wheat grains, Creole seasoning, full seasoning , classic mayonnaise, ketchup, tomato sauce, cassava, Chinese sauce, Worcestershire sauce and liquid seasoning.",
+        "p2": "Esta lÃ­nea premium abarca lo mejor de cada producto elaborado en Rep. Dominicana.",
+        "linkHref": "/productos/tilda",
+        "linkText": "see products"
+      },
+      {
+        "nombre": "piloto",
+        "img": "pilotoLogo",
+        "p": "Our exquisite line of Piloto sweets, both in pastes and cream, are made from quality fresh milk. Providing the best of our Montecristi province area in the city of Mao, Dominican Republic.",
+        "linkHref": "/lineas/piloto",
+        "linkText": "see products"
+      },
+      {
+        "nombre": "rodriguez",
+        "img": "rodriguezLogo",
+        "p": "Our line of sweets from the Rodriguez candy store are made in Bonao, Dominican Republic. The diversity of sweets that precedes this line is made with grade A milk following the parameters required for a quality product.",
+        "linkHref": "/lineas/rodriguez",
+        "linkText": "see productss"
+      },
+      {
+        "nombre": "spices",
+        "img": "spicesLogo",
+        "p": "The Rottis Spices line is an Organic line of spices from our field of the best quality.",
+        "p2": "Our varieties are: Whole Oregano, Ground Oregano, Sweet Cloves, Cinnamon in rows, Malagueta and Star Anise.",
+        "linkHref": "/lineas/spices",
+        "linkText": "see products"
+      }
+    ]
   }
 }
