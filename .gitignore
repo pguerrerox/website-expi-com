@@ -20,3 +20,6 @@ OLD_TEMP/
 .env.test.local
 .env.production.local
 npm-debug.log*
+
+out
+/out
