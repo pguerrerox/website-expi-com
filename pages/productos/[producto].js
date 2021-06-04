@@ -9,7 +9,6 @@ import { useRouter } from 'next/router'
 import Prods_banner from '../../components/prods/Prods_banner';
 import Prods_productos from '../../components/prods/Prods_producto';
 import Lineas_bottom from '../../components/lineas/Lineas_bottom';
-import Productos_Banner from '../../components/productos/Productos_banner';
 
 
 export default function Prods(props) {
@@ -23,13 +22,8 @@ export default function Prods(props) {
   console.log()
   return (
     <>
-      {
-        componentsProps.banner.imgBanner ?
-          <Prods_banner {...componentsProps.banner} /> :
-          <Productos_Banner {...componentsProps.banner.banner} />
-      }
+      <Prods_banner {...componentsProps.banner} />
       <section className='Prods'>
-
         {
           componentsProps.productos.map((prod, key) => {
             return (

@@ -7,7 +7,7 @@ export default function Productos_banner(props){
             <div className='container d-flex flex-column justify-content-center align-items-center text-center'>
                 <h3 className='text-secondary text-capitalize mb-0'>{props.h3}</h3>
                 <h1 className='text-primary font-markinson'>{props.h1}</h1>
-                <h3 className='text-redish font-trajan '>{props.slogan}</h3>
+                <h3 className='text-redish font-maiandra text-uppercase'>{props.slogan}</h3>
             </div>
         </section>
     )

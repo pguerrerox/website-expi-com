@@ -63,6 +63,11 @@ $theme-colors: (
   src: url('/fonts/markinson.otf') format('truetype');
 }
 @font-face {
+  font-family: 'Maiandra';
+  font-style: normal;
+  src: url('/fonts/maiandra.ttf') format('truetype');
+}
+@font-face {
   font-family: 'Open Sans';
   font-style: 600;
   src: url('/assets/fonts/open_sans_semibold.ttf') format('truetype');
@@ -76,6 +81,7 @@ $theme-colors: (
 %font-myriad { font-family: 'Myriad Pro', sans-serif !important}
 %font-trajan { font-family: 'Trajan Pro' !important}
 %font-markinson { font-family: 'Markinson' !important}
+%font-maiandra { font-family: 'Maiandra' !important}
 %font-nexa { font-family: 'Nexa Rust Sans' !important}
 %font-bold { font-weight: bold !important}
 
@@ -88,6 +94,7 @@ $theme-colors: (
 }
 .font-trajan{@extend %font-trajan;}
 .font-markinson{@extend %font-markinson;}
+.font-maiandra{@extend %font-maiandra;}
 .font-nexa{@extend %font-nexa;}
 body{@extend %font-myriad;}
 

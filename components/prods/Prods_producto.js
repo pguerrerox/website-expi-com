@@ -39,13 +39,16 @@ export default function Prods_producto(props) {
                 <div className="d-flex justify-content-center col-10 col-lg-6">
                   <img className='col' src={`/images/productos/skus/${props.sku}/${props.prodImg}.png`} alt="imagen del producto" />
                 </div>
-                <div className='text-justify col-11 col-lg-6 pt-3 pt-lg-0'>
-                  {props.h5 && <h5 className='text-primary bold text-uppercase text-center py-1'>{props.h5}</h5>}
-                  {props.h5_2 && <h5 className='border-top-1 text-primary bold text-uppercase text-center py-1' >{props.h5_2}</h5>}
-                  <p>{props.preMarked} <span className='text-primary bold'>{props.marked} </span>{props.postMarked}</p>
-                  {props.p2 && <p>{props.p2}</p>}
-                  {props.p3 && <p>{props.p3}</p>}
-                  <p className='pt-3'><span className='bold'>{props.pres1}</span> {props.pres2}</p>
+                <div className='text-justify d-flex flex-column justify-content-center align-items-center col-11 col-lg-6 pt-3 pt-lg-0'>
+                  <div>
+                    {props.h5 && <h5 className='text-primary bold text-uppercase text-center py-1'>{props.h5}</h5>}
+                    {props.h5_2 && <h5 className='border-top-1 text-primary bold text-uppercase text-center py-1' >{props.h5_2}</h5>}
+                    <p>{props.preMarked} <span className='text-primary bold'>{props.marked} </span>{props.postMarked}</p>
+                    {props.p2 && <p>{props.p2}</p>}
+                    {props.p3 && <p>{props.p3}</p>}
+                    <p className='pt-3'><span className='bold'>{props.pres1}</span> {props.pres2}</p>
+                  </div>
+                  {props.img2 && <img className='col-7' src={`/images/productos/skus/${props.sku}/${props.img2}.png`} alt='imagen relacionada'/>}
                 </div>
               </div>
             </div>
