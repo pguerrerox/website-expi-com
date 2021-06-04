@@ -10,10 +10,16 @@
         "preMarked": "Nuestro Queso",
         "marked": "Rottis",
         "postMarked": "tipo holandés, es el reflejo de la tradición gastronómica dominicana, el cual se consume habitualmente en el desayuno y en la cena, pero de igual manera se le puede disfrutar en meriendas y picaderas.",
-        "p2": "Actualmente la marca Rottis elabora este queso tipo holandés con diferentes etapas de maduración, algunos tiernos, otros semi-maduros y otros maduros (30 días -45 -60 días y hasta más).",
+        "p2": "",
         "p3": "",
         "pres1": "Presentacion:",
-        "pres2": "1.10 libras"
+        "pres2": "1.10 libras",
+        "special": {
+          "prodImg": "1_special",
+          "preMarked": "Actualmente la marca",
+          "marked": "Rottis",
+          "postMarked": "elabora este queso tipo holandés con diferentes etapas de maduración, algunos tiernos, otros semi-maduros y otros maduros (30 días -45 -60 días y hasta más)."
+        }
       },
       {
         "prodImg":"2",

@@ -1,6 +1,6 @@
 # revisions
+- r0.2 - rottis holandes layout fixed, header color fixed
 - r0.1 - contain all, whitebar to the sides
-
 
 # progress!
 - v0.6.0 - all pages translated

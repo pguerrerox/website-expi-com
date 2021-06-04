@@ -32,7 +32,7 @@ export default function LayoutDefault(props) {
       />
       </Head>
 
-      <Header  data={props.data[props.lang].header} lang={props.lang} langChange={props.langChange} />
+      <Header  data={props.data[props.lang].header} lang={props.lang} langChange={props.langChange} router={props.router} />
       {props.children}
       <Footer data={props.data[props.lang].footer} lang={props.lang}/>
       

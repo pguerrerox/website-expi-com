@@ -49,7 +49,7 @@ class MyApp extends App {
     const layoutData = this.props.layoutData;
         
     return (
-      <Layout data={layoutData} lang={state.language} langChange={this.langChange}>
+      <Layout data={layoutData} lang={state.language} langChange={this.langChange} router={this.props.router.asPath}>
         <Component {...pageProps} lang={state.language}/>
       </Layout>
     )

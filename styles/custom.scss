@@ -13,7 +13,6 @@ $beige: #fefaf5;
 $redish: rgb(107, 45, 41);
 $blueish: rgb(13,18,45);
 
-
 $theme-colors: (
   "terciary": $terciary,
   "alternate": $beige,
@@ -21,14 +20,11 @@ $theme-colors: (
   "blueish": $blueish
 );
 
-
-//font-size
-// $font-size-base: 0.95rem;
-
 //font-style
 .bold{
   font-weight: bold;
 }
+
 //borders
 .wraperProductos > div{border-bottom: 1px solid $primary}
 .wraperProductos > div:last-child{border-bottom: none }
@@ -49,7 +45,6 @@ $theme-colors: (
   top: 0;
   right: 0
 }
-
 
 // fonts
 @font-face {
@@ -98,8 +93,6 @@ body{@extend %font-myriad;}
 
 .fa-bars{ fill: $primary !important }
 div.svg:hover .fa-bars{ fill: $dark !important }
-
-
 
 
 // Special media query styles
@@ -191,10 +184,14 @@ div.svg:hover .fa-bars{ fill: $dark !important }
   .footerBorders div:nth-child(odd){border-right: 2px solid white}
 }
 
+.navbar-nav > a { color: black }
+.navbar-nav > a:hover { color: $primary }
+.navbar-nav > a.active { color: $primary }
+
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
   .headerlogo{height: 175px}
-  .navbar-nav > a > span{border-right: 2px solid; padding: 5px 25px}
+  .navbar-nav > a > span{border-right: 2px solid $primary; padding: 5px 25px}
   .navbar-nav > a:last-child > span{border-right: none}
   .footerBorders div:not(:last-child){border-right: 2px solid white}
 

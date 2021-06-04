@@ -5,8 +5,11 @@ import Link from 'next/link';
 import NavbarTop from './navbartop';
 
 // exporting component
-export default function Navbar(props) {
+export default function Navbar(props, hooks) {
   const menuItems = props.data
+
+  let context = hooks
+  console.log(context);
 
   return (
     <>
@@ -25,7 +28,7 @@ export default function Navbar(props) {
 
             <div className="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
               <div className='navbar-nav d-flex justify-content-center align-items-center text-nowrap'>
-                {menuItems.map((item, index) => <Link href={item.link} key={index}><a className='text-capitalize py-1 nav-link'><span>{item.page}</span></a></Link>)}
+                {menuItems.map((item, index) => <Link href={item.link} key={index}><a className={`text-capitalize py-1 nav-link ${(props.router === item.link) && 'active'}`}><span>{item.page}</span></a></Link>)}
               </div>
             </div>
           </nav>
