@@ -10,8 +10,8 @@ export default function Navbar(props) {
 
   return (
     <>
-      <header className='HeaderMid bg-white sticky-top'>
-        <div className='container position-relative'>
+      <header className='HeaderMid container-xl bg-white sticky-top'>
+        <div className='position-relative'>
           <nav className='navbar navbar-expand-lg py-2 px-2 row'>
             <div className='navbar-brand'>
               <Link href='/'>

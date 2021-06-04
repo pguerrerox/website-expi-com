@@ -1,3 +1,7 @@
+# revisions
+- r0.1 - contain all, whitebar to the sides
+
+
 # progress!
 - v0.6.0 - all pages translated
 - v0.5.5 - lineas pages 100% done

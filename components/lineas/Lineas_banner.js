@@ -9,7 +9,7 @@ export default function Lineas_banner(props) {
 
   return (
     <>
-      <section className='Lineas_banner'>
+      <section className='Lineas_banner container-xl px-0'>
         <div className='banner' style={props.imgBanner == 'costero' ? bgImgCostero :bgImg }></div>
         <div className='container border-bot-2 py-5'>
           <div className='d-flex flex-column flex-lg-row justify-content-center'>

@@ -5,8 +5,8 @@ export default function Contacto_gracias(props) {
   
   return (
     <>
-      <section className='Contacto_gracias pt-4 py-lg-4'>
-        <div className='container'>
+      <section className='Contacto_gracias container-xl pt-4 py-lg-4'>
+        <div className=''>
           <div className='py-4 text-center border-bot-2'>
             <h1 className='text-secondary bold'>{top.h1}</h1>
             <h5 className='text-terciary '>{top.h5}</h5>

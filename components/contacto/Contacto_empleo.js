@@ -71,8 +71,8 @@ class Contacto_empleo extends Component {
     let statusError = 'text-danger'
 
     return (
-      <section className='mt-5 py-5' style={{"background": `url('/images/contacto/${texto.bgimage}.png')`, "backgroundSize" : "cover", "backgroundPosition" : "center" }}>
-        <div className='container'>
+      <section className='mt-5 py-5 container-xl' style={{"background": `url('/images/contacto/${texto.bgimage}.png')`, "backgroundSize" : "cover", "backgroundPosition" : "center" }}>
+        <div className=''>
           <div className='d-flex flex-column justify-content-center align-items-center flex-lg-row'>            
             <div className='col-10 col-lg-6 text-white d-flex flex-column' style={{"textShadow": "7px 7px 14px black"}}>
               <h2 className='text-center bold'>{texto.h2}</h2>

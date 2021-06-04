@@ -28,13 +28,16 @@ export default function Prods(props) {
           <Prods_banner {...componentsProps.banner} /> :
           <Productos_Banner {...componentsProps.banner.banner} />
       }
-      {
-        componentsProps.productos.map((prod, key) => {
-          return (
-            <Prods_productos {...prod} eID={key} sku={props.title} key={key} />
-          )
-        })
-      }
+      <section className='Prods'>
+
+        {
+          componentsProps.productos.map((prod, key) => {
+            return (
+              <Prods_productos {...prod} eID={key} sku={props.title} key={key} />
+            )
+          })
+        }
+      </section>
       <Lineas_bottom />
     </>
   )

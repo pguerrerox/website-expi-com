@@ -1,3 +1,7 @@
+$container-max-widths:(
+  xl: 1250px
+);
+
 // colors
 $primary: #ee3532; 
 $secondary: #363636;
@@ -25,7 +29,6 @@ $theme-colors: (
 .bold{
   font-weight: bold;
 }
-
 //borders
 .wraperProductos > div{border-bottom: 1px solid $primary}
 .wraperProductos > div:last-child{border-bottom: none }
@@ -37,6 +40,8 @@ $theme-colors: (
 .border-bot-2{border-bottom: 2px solid $primary}
 
 .border-right-2{border-right: 2px solid}
+
+.Prods > section:last-child div{border-bottom: none;}
 
 //header
 .fixedTop{

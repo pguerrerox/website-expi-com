@@ -5,8 +5,8 @@ export default function Prods_producto(props) {
 
   return (
     <>
-      <section>
-        <div className='container border-top-1 py-5'>
+      <section className='container-xl'>
+        <div className='border-bot-1 py-5'>
           <div className={`row d-flex flex-column justify-content-center align-items-center ${props.eID % 2 == 0 ? alternateL : alternateR}`}>
             <div className="d-flex justify-content-center col-10 col-lg-6">
               <img className='col' src={`/images/productos/skus/${props.sku}/${props.prodImg}.png`} alt="imagen del producto" />

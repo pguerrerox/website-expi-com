@@ -1,7 +1,7 @@
 //exporting component
 export default function Productos_ads(props) {
   return (
-    <div className='container py-5'>
+    <div className='container-xl py-5'>
       <div className='d-flex flex-column justify-content-center align-items-center flex-lg-row'>
         <div className='pb-4 pb-lg-0 col-lg-4 d-flex justify-content-center col-9'>
           <img className='col logoImg' src={`/images/logos/${props.img}.png`} alt={`Logo de ${props.nombre}`} />

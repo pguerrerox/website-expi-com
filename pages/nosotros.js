@@ -17,8 +17,8 @@ export default function Nosotros(props) {
   return (
     <>
       {/* Seccion 1 */}
-      <section className='Nosotros_section1'>
-        <div className='container overflow-hidden'>      
+      <section className='Nosotros_section1 container-xl'>
+        <div className='overflow-hidden'>      
           <div className=''>
             <img className='float-right imgElDon' src={`/images/nosotros/${sect1.img}.png`} alt="" />
             <div className=''>
@@ -37,9 +37,9 @@ export default function Nosotros(props) {
       </section>
 
       {/* Seccion 2 */}
-      <section className='Nosotros_section2'>
-        <div className='border-top-2 border-bot-2 py-4'>
-          <div className='container d-flex flex-column justify-content-center flex-lg-row justify-content-lg-between'>
+      <section className='Nosotros_section2 container-xl border-top-2 border-bot-2'>
+        <div className=' py-4'>
+          <div className='d-flex flex-column justify-content-center flex-lg-row justify-content-lg-between'>
             {
             sect2.map( (elem, index) => {
               return(
@@ -66,15 +66,13 @@ export default function Nosotros(props) {
       </section>
 
       {/* Seccion 3 */}
-      <section>
-        <div className='bgImage mt-4'>
-          <div className='container'>
+      <section className='container-xl bgImage'>
+        <div className=' mt-4'>
             <div className="vertical3er row">
               <div className='vertical3erInner col-4 col-md-3 col-lg-2 d-flex'>
-                <img className='vertical3erImg px-1 align-self-center' src={`/images/${sect3.vertical3er}.png`}/>
+                <img className='vertical3erImg align-self-center' src={`/images/${sect3.vertical3er}.png`}/>
               </div>
             </div>
-          </div>
         </div>
       </section>
       

@@ -7,7 +7,7 @@
     },
     "section1": {
       "h1": "¿Quienes somos?",
-      "p": "Exportaciones Isabel nace con la necesidad o ausencia que existía en el mercado americano de productos dominicanos de origen nacional.",
+      "p": "Exportaciones Isabel nace con la necesidad que existía en el mercado americano de productos dominicanos de origen nacional.",
       "link": "/nosotros",
       "link_text": "Descubre más sobre nosotros",
       "bgimage": "section1",
@@ -31,10 +31,10 @@
       "imgBanner": "logo"
     },
     "section1": {
-      "h1": "who we are?",
-      "p": "Exports Isabel was born with the need or absence that existed in the American market for Dominican products of national origin.",
+      "h1": "Who we are?",
+      "p": "Isabel Exports was born with the need that existed in the American market for Dominican products of national origin.",
       "link": "/nosotros",
-      "link_text": "Find out more about us",
+      "link_text": "Find out more About Us",
       "bgimage": "section1",
       "lower3er": false,
       "img_lower3er": ""
@@ -43,7 +43,7 @@
       "h1": "Know our products",
       "p": "Our products are made with the best quality standards in the market.",
       "link": "/productos",
-      "link_text": "Discover our products",
+      "link_text": "Discover Our Products",
       "bgimage": "section2",
       "lower3er": true,
       "img_lower3er": "logo_black"
