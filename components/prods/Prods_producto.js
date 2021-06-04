@@ -3,17 +3,20 @@ export default function Prods_producto(props) {
   let alternateL = 'flex-lg-row';
   let alternateR = 'flex-lg-row-reverse';
 
+  let alter_eID = (props.sku === 'rottis' || props.sku === 'costero') ? (props.eID + 1) : props.eID;
+  
   return (
     <>
       <section className='container-xl'>
         {
-          props.prodImg === "1"
+          (props.sku === 'rottis' || props.sku === 'costero' ) && (props.prodImg === '1')
             ?
             <div className='border-bot-1 py-4'>
               <div className='d-flex flex-wrap justify-content-center align-items-center'>
                 <div className='row justify-content-center align-items-center flex-column-reverse flex-lg-row'>
                   <div className='col-sm-10 col-lg-6'>
                     <p>{props.preMarked} <span className='text-primary bold'>{props.marked} </span>{props.postMarked}</p>
+                    {props.p2 && <p>{props.p2}</p>}
                   </div>
                   <div className="col-sm-8 col-lg-4">
                     <img className='w-100' src={`/images/productos/skus/${props.sku}/${props.prodImg}.png`} alt="imagen del producto" />
@@ -32,7 +35,7 @@ export default function Prods_producto(props) {
             </div>
             :
             <div className='border-bot-1 py-4'>
-              <div className={`row d-flex flex-column justify-content-center align-items-center ${props.eID % 2 == 0 ? alternateL : alternateR}`}>
+              <div className={`row d-flex flex-column justify-content-center align-items-center ${alter_eID % 2 == 1 ? alternateL : alternateR}`}>
                 <div className="d-flex justify-content-center col-10 col-lg-6">
                   <img className='col' src={`/images/productos/skus/${props.sku}/${props.prodImg}.png`} alt="imagen del producto" />
                 </div>

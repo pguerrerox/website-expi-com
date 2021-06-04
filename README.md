@@ -1,4 +1,5 @@
 # revisions
+- r0.3 - nauj, costero, baruk banners fixed
 - r0.2 - rottis holandes layout fixed, header color fixed
 - r0.1 - contain all, whitebar to the sides
 

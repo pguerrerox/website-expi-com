@@ -11,9 +11,15 @@
         "marked": "tipo Holandés Costero,",
         "postMarked": "es un queso pasteurizado con un sabor más fuerte a las otras líneas de quesos holandeses.",
         "p2": "Se caracteriza por ser el preferido para snacks y cuenta con diferentes etapas de maduración. algunos tiernos, otros semi-maduros y otros maduros (30 días y 45 días).",
-        "p3": "Actualmente la marca Costero tiene una línea Regular y una línea Black Premium la línea premium tiene etapas de maduración de 60 días, 90 y 180 días).",
+        "p3": "",
         "pres1": "Presentacion:",
-        "pres2": "1.10 libras"
+        "pres2": "1.10 libras",
+        "special": {
+          "prodImg": "1_special",
+          "preMarked": "Actualmente la marca",
+          "marked": "Costero",
+          "postMarked": "tiene una línea Regular y una línea Black Premium la línea premium tiene etapas de maduración de 60 días, 90 y 180 días)."
+        }
       },
       {
         "prodImg":"2",
