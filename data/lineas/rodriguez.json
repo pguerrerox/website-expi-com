@@ -1,6 +1,7 @@
 {
   "es": {
     "banner": {
+      "bannerStyle": "center",
       "imgBanner": "rodriguezBanner",
       "imgLogo": "rodriguezLogo",
       "h3_1": "Nuestras",
@@ -13,6 +14,7 @@
         "prodImg":"rodriguez_prod_1",
         "prodDescMarked": "Nuestra línea de Dulces, ",
         "prodDesc": "en pastas como en crema son elaboradas a partir de leche fresca de calidad brindando lo mejor de nuestra zona de Bonao, R.D.",
+        "prodDesc2": "Nuestra linea de Dulces de Dulceria Rodriguez son elaborados en Bonao, Rep. Dom. La diversidad de Dulces que precede de esta linea es elaborada con leche grado A siguiendo los parametros requeridos para un producto de Calidad.",
         "prodPrePresentation": "Presentacion: ",
         "prodPresentation": "3, 4, 9, 16 oz. En pasta y en crema."
       }

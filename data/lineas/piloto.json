@@ -10,8 +10,11 @@
     },
     "productos": [
       {
-        "style": "row",
-        "banda": false,
+        "style": "hybrid",
+        "banda": {
+          "p1": "Dulces en pasta y en crema",
+          "p2": "Linea Premium"
+        },
         "prodImg":"piloto_prod_1",
         "prodDescMarked": "La Línea de Dulces Piloto, ",
         "prodDesc": "viene tanto en pastas como en crema, son elaborados a partir de leche fresca de calidad brindando lo mejor de nuestra zona provincia de Montecristi en la ciudad de Mao, Rep. Dom.",

@@ -5,6 +5,7 @@ import path from 'path';
 // importing componets
 import Productos_Banner from '../components/productos/Productos_banner';
 import Productos_ads from '../components/productos/Productos_ads';
+import Lineas_bottom from '../components/lineas/Lineas_bottom';
 
 export default function Productos(props) {
   let data = props.data[props.lang];
@@ -22,6 +23,7 @@ export default function Productos(props) {
         )
       }
     </div>
+    <Lineas_bottom/>
     </>
   )
 }
