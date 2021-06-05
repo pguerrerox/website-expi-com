@@ -53,6 +53,12 @@
           "label": "Correo Electronico",
           "placeholder": "juan_rod@ejemplo.com",
           "type":"email"
+        },        
+        "ciudad": {
+          "id": "ciudad",
+          "label": "Ciudad",
+          "placeholder": "Santiago",
+          "type":"ciudad"
         },
         "subject": {
           "id": "asunto",

@@ -8,7 +8,9 @@ class Contacto_form extends Component {
     this.state = {
       nombre: '',
       email: '',
+      ciudad: '',
       asunto: '',
+      tema: '',
       mensaje: '',
       statusShow: false, //display the form or not
       statusMsg: null
@@ -50,8 +52,10 @@ class Contacto_form extends Component {
       {
         nombre: '',
         email: '',
+        ciudad: '',
         asunto: '',
-        mensaje: ''
+        tema: '',
+        mensaje: '',
       }
     ))
   }

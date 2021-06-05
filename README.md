@@ -1,4 +1,5 @@
 # revisions
+- r0.6 - form fixed
 - r0.5 - piloto, rottis spices, dulces rodriguez fixed
 - r0.4 - tilda, don juan fixed
 - r0.3 - nauj, costero, baruk banners fixed
