@@ -22,6 +22,7 @@
   },  
   "en": {
     "banner": {
+      "bannerStyle": "center",
       "imgBanner": "rodriguezBanner",
       "imgLogo": "rodriguezLogo",
       "h3_1": "Our",
@@ -34,6 +35,7 @@
         "prodImg":"rodriguez_prod_1",
         "prodDescMarked": "Our line of Sweets,",
         "prodDesc": "in pastas as in cream they are made from quality fresh milk offering the best of our area of Bonao, R.D.",
+        "prodDesc2": "Our line Rodriguez sweets are manufactured at Bonao, Dominican Republic. All our sweets are made with quality A milk, following all required quality processes.",
         "prodPrePresentation": "Presentation: ",
         "prodPresentation": "3, 4, 9, 16 oz. In paste and cream."
       }

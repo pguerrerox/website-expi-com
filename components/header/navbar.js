@@ -9,7 +9,7 @@ export default function Navbar(props) {
   const menuItems = props.data
 
   let router = props.router;  
-  router = router.includes('/productos') ? "/productos" : router;
+  router = router.includes('/productos') || router.includes('/lineas') ? "/productos" : router;
 
   return (
     <>

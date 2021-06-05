@@ -21,6 +21,7 @@
   },
   "en": {
     "banner": {
+      "bannerStyle": "center",
       "imgBanner": "spicesBanner",
       "imgLogo": "spicesLogo",
       "h3_1": "Our",

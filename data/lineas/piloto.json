@@ -42,8 +42,12 @@
     },
     "productos": [
       {
-        "style": "row",
-        "banda": false,
+        "style": "hybrid",
+        "banda": {
+          "p1": "Candy paste and cream",
+          "p2": "Premium Line"
+
+        },
         "prodImg":"piloto_prod_1",
         "prodDescMarked": "The Pilot Candy Line, ",
         "prodDesc": "It comes in both pasta and cream, they are made from quality fresh milk offering the best of our Montecristi province area in the city of Mao, Dom. Rep.",

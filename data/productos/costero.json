@@ -65,9 +65,15 @@
         "marked": "Coastal Dutch type,",
         "postMarked": "It is a pasteurized cheese with a stronger flavor than the other Dutch cheese lines.",
         "p2": "It is characterized by being the preferred one for snacks and has different stages of maturation, some tender, others semi-ripe and others ripe (30 days and 45 days).",
-        "p3": "Currently the Costero brand has a regular line and a Black Premium line, the premium line has maturation stages of 60 days, 90 and 180 days).",
+        "p3": "",
         "pres1": "Presentacion:",
-        "pres2": "1.10 libras"
+        "pres2": "1.10 libras",
+        "special": {
+          "prodImg": "1_special",
+          "preMarked": "Currently the",
+          "marked": "Costero",
+          "postMarked": "brand has a regular line and a Black Premium line, the premium line has maturation stages of 60 days, 90 and 180 days)."
+        }
       },
       {
         "prodImg":"2",

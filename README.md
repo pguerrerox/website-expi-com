@@ -1,4 +1,5 @@
 # revisions
+- r0.7 - some minor fixes
 - r0.6 - form fixed
 - r0.5 - piloto, rottis spices, dulces rodriguez fixed
 - r0.4 - tilda, don juan fixed
@@ -26,4 +27,4 @@
 - v0.1.0 - init with Nextjs
 
 # pending all pages!
-- translation
+- language state on individual products pages, reset when page opened.

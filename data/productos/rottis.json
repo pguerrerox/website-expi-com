@@ -94,10 +94,16 @@
         "preMarked": "Our",
         "marked": "Rottis Dutch cheese,",
         "postMarked": "is the reflection of the Dominican gastronomic tradition, which is usually consumed at breakfast and dinner, but can also be enjoyed in snacks and snacks.",
-        "p2": "Currently the Rottis brand makes this Dutch type cheese with different stages of maturation, some soft, others semi-ripe and others ripe (30 days -45 -60 days and even more).",
+        "p2": "",
         "p3": "",
         "pres1": "Presentation:",
-        "pres2": "1.10 pounds"
+        "pres2": "1.10 pounds",
+        "special": {
+          "prodImg": "1_special",
+          "preMarked": "Currently the ",
+          "marked": "Rottis",
+          "postMarked": "brand makes this Dutch type cheese with different stages of maturation, some soft, others semi-ripe and others ripe (30 days -45 -60 days and even more)."
+        }
       },
       {
         "prodImg":"2",
