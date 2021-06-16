@@ -1,4 +1,5 @@
 # revisions
+- r0.8 - some minor changes
 - r0.7 - some minor fixes
 - r0.6 - form fixed
 - r0.5 - piloto, rottis spices, dulces rodriguez fixed
