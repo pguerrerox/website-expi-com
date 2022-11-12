@@ -1,5 +1,5 @@
 # expi.com.do
-This is a static website build with `Jekyll` and deploy on `Github Pages`.
+This is a static website build with `React/Next` and deploy on `Github Pages`.
 
 ### Technologies
 - HTML
